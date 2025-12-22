@@ -1,0 +1,17 @@
+# Obsidian internals
+.obsidian/
+.trash/
+
+# Local-only capture and evidence
+_local/
+_assets/
+
+# OS noise
+.DS_Store
+
+# Editor backups
+*~
+*.bak
+
+# legacy content that will be replaced
+zSessions/

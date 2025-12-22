@@ -1,0 +1,74 @@
+{
+  "document_index": [
+    {
+      "document_id": "iw_sess_074",
+      "source_file": "IWTC session notes 51-100.docx",
+      "session_number": 74,
+      "session_date": null,
+      "title": null,
+      "campaign": "IWTC",
+      "arc": "Temple of the Bronze Flame",
+      "location": null,
+      "party_label": "IWTC party",
+      "notes_type": "raw_session_notes",
+      "confidence": "medium",
+      "comments": ""
+    },
+    {
+      "document_id": "iw_sess_086",
+      "source_file": "IWTC session notes 51-100.docx",
+      "session_number": 86,
+      "session_date": "2022-07-16",
+      "title": null,
+      "campaign": "IWTC",
+      "arc": "Temple of the Bronze Flame",
+      "location": "Cave of the Flame",
+      "party_label": "IWTC party",
+      "notes_type": "raw_session_notes",
+      "confidence": "high",
+      "comments": ""
+    },
+    {
+      "document_id": "iw_sess_087",
+      "source_file": "IWTC session notes 51-100.docx",
+      "session_number": 87,
+      "session_date": "2022-07-23",
+      "title": null,
+      "campaign": "IWTC",
+      "arc": "Temple of the Bronze Flame",
+      "location": "Temple of the Bronze Flame",
+      "party_label": "IWTC party",
+      "notes_type": "raw_session_notes",
+      "confidence": "high",
+      "comments": ""
+    },
+    {
+      "document_id": "iw_sess_089b",
+      "source_file": "IWTC session notes 51-100.docx",
+      "session_number": "89b",
+      "session_date": null,
+      "title": null,
+      "campaign": "IWTC",
+      "arc": "Temple of the Bronze Flame",
+      "location": "Temple of the Bronze Flame",
+      "party_label": "IWTC party",
+      "notes_type": "raw_session_notes",
+      "confidence": "medium",
+      "comments": ""
+    },
+    {
+      "document_id": "iw_sess_091",
+      "source_file": "IWTC session notes 51-100.docx",
+      "session_number": 91,
+      "session_date": null,
+      "title": null,
+      "campaign": "IWTC",
+      "arc": "Temple of the Bronze Flame",
+      "location": "Temple of the Bronze Flame",
+      "party_label": "IWTC party",
+      "notes_type": "raw_session_notes",
+      "confidence": "medium",
+      "comments": ""
+    }
+  ]
+}
