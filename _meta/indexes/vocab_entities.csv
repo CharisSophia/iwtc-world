@@ -1,0 +1,173 @@
+entity_id,canonical_name,entity_type,layer
+artifact_folly,Albrun's Folly,artifact,world
+artifact_glory,Unala's Glory,artifact,world
+artifact_iris,IRIS,artifact,world
+char_alivyre,Alivyre Dawntracker,character,world
+char_aniya,Aniya Laccion,character,world
+char_anthony,Anthony Haldane,character,world
+char_aren,Aren,character,world
+char_arthur,Arthur Coldstone,character,world
+char_avarna,Avarna,character,world
+char_azaar,Azaar,character,world
+char_baltael,Baltael,character,world
+char_bear,Bear,character,world
+char_bella,Bella,character,world
+char_beni,Beni Tinkerlaugh,character,world
+char_bixley,Bixley,character,world
+char_bloodaxe,Ungagh Bloodaxe,character,world
+char_braydon,Braydon,character,world
+char_bre,Breanna Arch,character,world
+char_brigitte,Brigitte Ware,character,world
+char_caldwell,Selis Caldwell,character,world
+char_cara,Cara Windsoul,character,world
+char_cergad,Cergad,character,world
+char_chuck,Chuck,character,world
+char_clara,Clara,character,world
+char_claw,Claw of Ironfang,character,world
+char_connor,Connor,character,world
+char_credus,Credus,character,world
+char_cullen,Alister Cullen,character,world
+char_cunai,Cunai la Diara,character,world
+char_cursin,Cursin Helmaid,character,world
+char_dakgorim,Dakgorim,character,world
+char_darren,Darren Moore,character,world
+char_david_bowie,David Bowie,character,world
+char_david_herder,David Herder,character,world
+char_draug,Draug,character,world
+char_drib,Drib Gnoss,character,world
+char_eardwulf,Eardwulf Harland,character,world
+char_edda,Edda MacInnis,character,world
+char_eghad,Eghad,character,world
+char_eira,Eira Sleepsong,character,world
+char_elaris,Elaris Thorne,character,world
+char_elias,Elias Stormriver,character,world
+char_emily,Emily Ashton,character,world
+char_evaine,Evaine MacRorie Thuryn,character,world
+char_faeryne,Faeryne,character,world
+char_fenrir,Fenrir,character,world
+char_fritz,Fritz,character,world
+char_fulbert,Fulbert Highwell,character,world
+char_garrick,Garrick,character,world
+char_gina,Gina,character,world
+char_grace,Grace Kinneon,character,world
+char_hadar,Hadar,character,world
+char_hammer,Hammer of Ironfang,character,world
+char_henry,Henry Sleepsong,character,world
+char_holly,Holly,character,world
+char_idolus,Idolus,character,world
+char_jane,Jane,character,world
+char_jemmy,Jemmy,character,world
+char_joram,Joram MacRorie,character,world
+char_kaedra,Kaedra,character,world
+char_kaitlyn,Kaitlyn,character,world
+char_katy,Katy,character,world
+char_kavar,Kavar Protis,character,world
+char_kir,Kir Selaz,character,world
+char_kluta,Kluta,character,world
+char_lia,Lia Fabriana,character,world
+char_liacyne,Liacyne Heseth,character,world
+char_liavarah,Liavarah,character,world
+char_light,Light of Ironfang,character,world
+char_loris,Edmund Loris,character,world
+char_luminia,Luminia,character,world
+char_macfeegle,MacFeegle,character,world
+char_makhala,Makhala,character,world
+char_melba,Melba Harland,character,world
+char_mercy,Mercy Windriver,character,world
+char_moon,Moon,character,world
+char_mowser,Mowser,character,world
+char_nala,Nala,character,world
+char_newberry,Evan Newberry,character,world
+char_norris,Norris,character,world
+char_piers,Piers Ashton,character,world
+char_poppy,Poppy Everhold,character,world
+char_rhona,Rhona,character,world
+char_rhys,Rhys Thuryn,character,world
+char_ricardo,Ricardo Alcocer,character,world
+char_ronric,Ronric,character,world
+char_sala,Salaisha,character,world
+char_saphira,Saphira Celestia,character,world
+char_shadow,Shadow of Ironfang,character,world
+char_shadowboy,Shadowboy,character,world
+char_shargaas,Shargaas,character,world
+char_shworn,Shworn Sleepsong,character,world
+char_soren,Soren,character,world
+char_spike,Spike of Ironfang,character,world
+char_tanzo,Tanzo,character,world
+char_tawyn,Tawyn,character,world
+char_terry,Terry,character,world
+char_thorne,Aldren Thorne,character,world
+char_tiber,Tiber Nox,character,world
+char_todd,Todd,character,world
+char_torchholder,Kama Torchholder,character,world
+char_touya,Touya Akira,character,world
+char_unala,Unala Vortoise,character,world
+char_urgulk,Urgulk,character,world
+char_victor,Victor D Evernight,character,world
+char_vyssa,Vyssa,character,world
+char_warhammer,Khagra Warhammer,character,world
+char_zedna,Zedna Hresvelg,character,world
+creat_Ash,Ash,creature,world
+creat_berry,Berry,creature,world
+creat_huana,Huana,creature,world
+creat_little_bear,Little Bear,creature,world
+creat_pet,Pet,creature,world
+faction_burzath,Burzath,faction,world
+faction_foreclaimers,Foreclaimers,faction,world
+faction_halverin,Halverin’s Guard,faction,world
+faction_hands,Hands of Liamassa,faction,world
+faction_ilguz,Ilguz,faction,world
+faction_jackals,Jackals,faction,world
+faction_krach-ul,Krach-ul,faction,world
+faction_michaeline,Michaelines,faction,world
+faction_modrons,Modrons,faction,world
+faction_remedy,Arimid’s Remedy,faction,world
+faction_sleepsong,Sleepsong,faction,world
+faction_spencer,Spencer,faction,world
+faction_thieves_guild,Thieves Guild,faction,world
+faction_tolanites,Tolanites,faction,world
+org_academy,Elysia Academy,organization,world
+org_arcana,Arcana,organization,world
+org_iwtc,IWTC,organization,world
+org_king,King,organization,world
+org_kirchefyre,Kirchefyr Temple,organization,world
+org_myconids,Myconids,organization,world
+org_party,Party,organization,world
+org_ravencrest,Ravencrest,organization,world
+org_spire,Spire,organization,world
+org_wolfstream,Wolfstream Abbey,organization,world
+place_abbey,Wolfstream Abbey,place,world
+place_blackburn,Blackburn,place,world
+place_blackwood,Blackwood,place,world
+place_brechin,Brechin,place,world
+place_brightfields,Brightfields,place,world
+place_cameth,Cameth Brin,place,world
+place_cliffborough,Cliffborough,place,world
+place_crafthold,Crafthold,place,world
+place_dereham,Dereham,place,world
+place_dhassa,Dhassa,place,world
+place_druwen,Duchy of Druwen,place,world
+place_elulind,Kingdom of Elulind,place,world
+place_elysia,Elysia,place,world
+place_elysian,Elysian,place,world
+place_guldrur,Guldrur,place,world
+place_jotunheim,Jotunheim Peaks,place,world
+place_killeth,Killeth,place,world
+place_monadh_mor,Monadh Mor,place,world
+place_northbend,North Bend FOB,place,world
+place_rarmal,Rarmal,place,world
+place_stonehome,Stonehome,place,world
+place_thurway,Thurway,place,world
+place_tolan,Kingdom of Tolàn,place,world
+place_torenth,Torenth,place,world
+place_trollhills,Trollhills,place,world
+place_tyson_crossing,Tyson Crossing,place,world
+place_wolfstream,Wolfstream Village,place,world
+player_bysickle,Bysickle,player,meta
+player_charis,Charis,player,meta
+player_crowe,Crowe,player,meta
+player_kalina,Kalina,player,meta
+player_lia,Lia Whitewolf,player,meta
+player_spartan,Spartan,player,meta
+player_venric,Venric,player,meta
+ref_kwalish,Kwalish,reference,meta
