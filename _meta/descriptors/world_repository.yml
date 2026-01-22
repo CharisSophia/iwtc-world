@@ -54,7 +54,6 @@ sources:
     # Backward-compatible untyped entry:
     - _local/recollections
 
-
 working_drafts:
   # Location for machine-generated working drafts.
   # These files are provisional, reproducible, and safe to delete.
@@ -62,6 +61,11 @@ working_drafts:
   #
   # Relative paths are resolved under world_root unless an absolute path is given.
   path: _local/machine_wip
+
+vocabulary:
+  entities: _meta/indexes/vocab_entities.csv
+  aliases: _meta/indexes/vocab_aliases.csv
+  player_character_map: _meta/indexes/vocab_map_player_character.csv
 
 # ---------------------
 # Optional additional info
