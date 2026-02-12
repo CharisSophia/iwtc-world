@@ -1,0 +1,131 @@
+source_id,relpath,source_type
+0,_local/auto_transcripts/caravan tales session 1.txt,auto_transcripts
+1,_local/auto_transcripts/caravan tales session 2.txt,auto_transcripts
+2,_local/auto_transcripts/iwtc session 000.txt,auto_transcripts
+3,_local/auto_transcripts/iwtc session 001.5.txt,auto_transcripts
+4,_local/auto_transcripts/iwtc session 001.txt,auto_transcripts
+5,_local/auto_transcripts/iwtc session 002.txt,auto_transcripts
+6,_local/auto_transcripts/iwtc session 003.txt,auto_transcripts
+7,_local/auto_transcripts/iwtc session 007.txt,auto_transcripts
+8,_local/auto_transcripts/iwtc session 008.txt,auto_transcripts
+9,_local/auto_transcripts/iwtc session 010.txt,auto_transcripts
+10,_local/auto_transcripts/iwtc session 011.txt,auto_transcripts
+11,_local/auto_transcripts/iwtc session 012.txt,auto_transcripts
+12,_local/auto_transcripts/iwtc session 013.txt,auto_transcripts
+13,_local/auto_transcripts/iwtc session 015.txt,auto_transcripts
+14,_local/auto_transcripts/iwtc session 017.txt,auto_transcripts
+15,_local/auto_transcripts/iwtc session 018.txt,auto_transcripts
+16,_local/auto_transcripts/iwtc session 019.txt,auto_transcripts
+17,_local/auto_transcripts/iwtc session 020.txt,auto_transcripts
+18,_local/auto_transcripts/iwtc session 021.txt,auto_transcripts
+19,_local/auto_transcripts/iwtc session 022.txt,auto_transcripts
+20,_local/auto_transcripts/iwtc session 023.txt,auto_transcripts
+21,_local/auto_transcripts/iwtc session 025.txt,auto_transcripts
+22,_local/auto_transcripts/iwtc session 028.1.txt,auto_transcripts
+23,_local/auto_transcripts/iwtc session 028.2.txt,auto_transcripts
+24,_local/auto_transcripts/iwtc session 030.txt,auto_transcripts
+25,_local/auto_transcripts/iwtc session 031.txt,auto_transcripts
+26,_local/auto_transcripts/iwtc session 032.5.txt,auto_transcripts
+27,_local/auto_transcripts/iwtc session 032.txt,auto_transcripts
+28,_local/auto_transcripts/iwtc session 033.txt,auto_transcripts
+29,_local/auto_transcripts/iwtc session 034.txt,auto_transcripts
+30,_local/auto_transcripts/iwtc session 035.txt,auto_transcripts
+31,_local/auto_transcripts/iwtc session 036.1.txt,auto_transcripts
+32,_local/auto_transcripts/iwtc session 036.2.txt,auto_transcripts
+33,_local/auto_transcripts/iwtc session 038.txt,auto_transcripts
+34,_local/auto_transcripts/iwtc session 039.txt,auto_transcripts
+35,_local/auto_transcripts/iwtc session 040.txt,auto_transcripts
+36,_local/auto_transcripts/iwtc session 041.txt,auto_transcripts
+37,_local/auto_transcripts/iwtc session 042.txt,auto_transcripts
+38,_local/auto_transcripts/iwtc session 043.txt,auto_transcripts
+39,_local/auto_transcripts/iwtc session 044.txt,auto_transcripts
+40,_local/auto_transcripts/iwtc session 045.txt,auto_transcripts
+41,_local/auto_transcripts/iwtc session 046.txt,auto_transcripts
+42,_local/auto_transcripts/iwtc session 047.txt,auto_transcripts
+43,_local/auto_transcripts/iwtc session 048.txt,auto_transcripts
+44,_local/auto_transcripts/iwtc session 049.txt,auto_transcripts
+45,_local/auto_transcripts/iwtc session 050.txt,auto_transcripts
+46,_local/auto_transcripts/iwtc session 051.txt,auto_transcripts
+47,_local/auto_transcripts/iwtc session 052.txt,auto_transcripts
+48,_local/auto_transcripts/iwtc session 054.txt,auto_transcripts
+49,_local/auto_transcripts/iwtc session 055.txt,auto_transcripts
+50,_local/auto_transcripts/iwtc session 056.txt,auto_transcripts
+51,_local/auto_transcripts/iwtc session 057.txt,auto_transcripts
+52,_local/auto_transcripts/iwtc session 058c.txt,auto_transcripts
+53,_local/auto_transcripts/iwtc session 059.5.txt,auto_transcripts
+54,_local/auto_transcripts/iwtc session 059.txt,auto_transcripts
+55,_local/auto_transcripts/iwtc session 060.txt,auto_transcripts
+56,_local/auto_transcripts/iwtc session 061.txt,auto_transcripts
+57,_local/auto_transcripts/iwtc session 062.txt,auto_transcripts
+58,_local/auto_transcripts/iwtc session 063.txt,auto_transcripts
+59,_local/auto_transcripts/iwtc session 064.txt,auto_transcripts
+60,_local/auto_transcripts/iwtc session 065.txt,auto_transcripts
+61,_local/auto_transcripts/iwtc session 066.txt,auto_transcripts
+62,_local/auto_transcripts/iwtc session 067.txt,auto_transcripts
+63,_local/auto_transcripts/iwtc session 068.txt,auto_transcripts
+64,_local/auto_transcripts/iwtc session 069.txt,auto_transcripts
+65,_local/auto_transcripts/iwtc session 070.txt,auto_transcripts
+66,_local/auto_transcripts/iwtc session 071.txt,auto_transcripts
+67,_local/auto_transcripts/iwtc session 072.txt,auto_transcripts
+68,_local/auto_transcripts/iwtc session 073.txt,auto_transcripts
+69,_local/auto_transcripts/iwtc session 074.txt,auto_transcripts
+70,_local/auto_transcripts/iwtc session 075.txt,auto_transcripts
+71,_local/auto_transcripts/iwtc session 077.txt,auto_transcripts
+72,_local/auto_transcripts/iwtc session 078.txt,auto_transcripts
+73,_local/auto_transcripts/iwtc session 079.txt,auto_transcripts
+74,_local/auto_transcripts/iwtc session 080.txt,auto_transcripts
+75,_local/auto_transcripts/iwtc session 081.txt,auto_transcripts
+76,_local/auto_transcripts/iwtc session 082.txt,auto_transcripts
+77,_local/auto_transcripts/iwtc session 083.txt,auto_transcripts
+78,_local/auto_transcripts/iwtc session 084.txt,auto_transcripts
+79,_local/auto_transcripts/iwtc session 085.txt,auto_transcripts
+80,_local/auto_transcripts/iwtc session 086.txt,auto_transcripts
+81,_local/auto_transcripts/iwtc session 087.txt,auto_transcripts
+82,_local/auto_transcripts/iwtc session 088.txt,auto_transcripts
+83,_local/auto_transcripts/iwtc session 089.txt,auto_transcripts
+84,_local/auto_transcripts/iwtc session 090.txt,auto_transcripts
+85,_local/auto_transcripts/iwtc session 091.txt,auto_transcripts
+86,_local/auto_transcripts/iwtc session 092.txt,auto_transcripts
+87,_local/auto_transcripts/iwtc session 093.txt,auto_transcripts
+88,_local/auto_transcripts/iwtc session 094.txt,auto_transcripts
+89,_local/auto_transcripts/iwtc session 095.txt,auto_transcripts
+90,_local/auto_transcripts/iwtc session 096.txt,auto_transcripts
+91,_local/auto_transcripts/iwtc session 097.txt,auto_transcripts
+92,_local/auto_transcripts/iwtc session 098.txt,auto_transcripts
+93,_local/auto_transcripts/iwtc session 099.txt,auto_transcripts
+94,_local/auto_transcripts/iwtc session 101.txt,auto_transcripts
+95,_local/auto_transcripts/iwtc session 102.txt,auto_transcripts
+96,_local/auto_transcripts/iwtc session 103.txt,auto_transcripts
+97,_local/auto_transcripts/iwtc session 104.txt,auto_transcripts
+98,_local/auto_transcripts/iwtc session 105.txt,auto_transcripts
+99,_local/auto_transcripts/iwtc session 106.txt,auto_transcripts
+100,_local/auto_transcripts/iwtc session 107.txt,auto_transcripts
+101,_local/auto_transcripts/iwtc session 108.txt,auto_transcripts
+102,_local/auto_transcripts/iwtc session 109.txt,auto_transcripts
+103,_local/auto_transcripts/iwtc session 110.txt,auto_transcripts
+104,_local/auto_transcripts/iwtc session 111.txt,auto_transcripts
+105,_local/pbp_transcripts/PbP10 - The Second Camp.md,pbp_transcripts
+106,_local/pbp_transcripts/PbP11 - Lia and the Tolanites.md,pbp_transcripts
+107,_local/pbp_transcripts/PbP12 - Meeting in the Vestry.md,pbp_transcripts
+108,_local/pbp_transcripts/PbP13 - The Town Square Incident.md,pbp_transcripts
+109,_local/pbp_transcripts/PbP14 - Recon.md,pbp_transcripts
+110,_local/pbp_transcripts/PbP15 - Debrief and Safety.md,pbp_transcripts
+111,_local/pbp_transcripts/PbP16 - Nightfall in Elysia.md,pbp_transcripts
+112,_local/pbp_transcripts/PbP17 - Night Meetings.md,pbp_transcripts
+113,_local/pbp_transcripts/PbP18 - TBD.md,pbp_transcripts
+114,_local/planning_notes/Allip Encounter Notes.md,planning_notes
+115,_local/planning_notes/current_Dhassa staged narration.md,planning_notes
+116,_local/planning_notes/current_IWTC names.md,planning_notes
+117,_local/planning_notes/current_IWTC planning notes.md,planning_notes
+118,_local/planning_notes/current_Kwalish.md,planning_notes
+119,_local/planning_notes/Elulind map descriptions.md,planning_notes
+120,_local/planning_notes/The Premature Pods Mystery.md,planning_notes
+121,_local/planning_notes/The Spencer Heir.md,planning_notes
+122,_local/planning_notes/The Wolfstream Situation.md,planning_notes
+123,_local/planning_notes/Victor’s Causal Chain.md,planning_notes
+124,_local/planning_notes/Who Knows What.md,planning_notes
+125,_local/session_notes/current_IWTC session notes.md,session_notes
+126,_local/session_notes/IWTC session notes 1-50.md,session_notes
+127,_local/session_notes/IWTC session notes 101-150.md,session_notes
+128,_local/session_notes/IWTC session notes 51-100.md,session_notes
+129,_local/session_notes/Kavar notes.md,session_notes

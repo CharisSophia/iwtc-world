@@ -1,3 +1,5 @@
+Henry and Alivyre - Cross-Domain Alignment
+
 Over the course of recent play and reflection, it has become clear that the relationship between Henry and Alivyre has crossed an important threshold. This is not defined by romance, declaration, or exclusivity, but by mutual centrality: each has begun to matter to the other in a way that exerts real gravitational pull on decisions, perceptions, and behavior. They orient around one another without needing to name it, and that orientation holds under stress.
 
 A key realization is that Henry and Alivyre are granting each other social permission for chaos that has always existed but has been tightly constrained. Henry’s wildness was long contained within Sleepsong discipline, violence, and control; Alivyre’s within grounding, restraint, and deliberate invisibility. Together, they normalize a version of chaos that is playful, contextual, effective, and human (or fey) rather than destructive. This is not about fixing or completing each other, but about making it safe for suppressed aspects of self to surface without collapse.
