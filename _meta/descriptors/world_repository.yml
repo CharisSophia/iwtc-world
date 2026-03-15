@@ -68,7 +68,8 @@ indexes:
   path: _meta/indexes
 
 vocabulary:
-  entities: _meta/indexes/vocab_entities.csv
-  aliases: _meta/indexes/vocab_aliases.csv
-  author_aliases:  _meta/indexes/vocab_author_aliases.csv
+  entities:             _meta/indexes/vocab_entities.csv
+  relationships:        _meta/indexes/world_relationships.csv
+  aliases:              _meta/indexes/vocab_aliases.csv
+  author_aliases:       _meta/indexes/vocab_author_aliases.csv
   player_character_map: _meta/indexes/vocab_map_player_character.csv

@@ -2,10 +2,11 @@ entity_id,canonical_name,entity_type,layer
 artifact_folly,Albrun's Folly,artifact,world
 artifact_glory,Unala's Glory,artifact,world
 artifact_iris,IRIS,artifact,world
-creat_Ash,Ash,creature,world
+creat_ash,Ash,creature,world
 creat_berry,Berry,creature,world
 creat_huana,Huana,creature,world
 creat_little_bear,Little Bear,creature,world
+creat_mine,Mine,creature,world
 creat_pet,Pet,creature,world
 faction_burzath,Burzath,faction,world
 faction_foreclaimers,Foreclaimers,faction,world
@@ -27,12 +28,14 @@ org_iwtc,IWTC,organization,world
 org_king,King,organization,world
 org_kirchefyre,Kirchefyr Temple,organization,world
 org_myconids,Myconids,organization,world
+org_orcs,Orc Nation,organization,world
 org_party,Party,organization,world
 org_ravencrest,Ravencrest,organization,world
 org_spire,Spire,organization,world
 org_wolfstream,Wolfstream Abbey,organization,world
 person_alivyre,Alivyre Dawntracker,character,world
 person_aniya,Aniya Laccion,character,world
+person_anthony,Anthony Haldane,NPC,world
 person_aren,Aren,NPC,world
 person_arthur,Arthur Coldstone,character,world
 person_avarna,Avarna,NPC,world
@@ -79,7 +82,6 @@ person_garrick,Garrick,character,world
 person_gina,Gina,NPC,world
 person_grace,Grace Kinneon,NPC,world
 person_hadar,Hadar,NPC,world
-person_haldane,Anthony Haldane,NPC,world
 person_hammer,Hammer of Ironfang,NPC,world
 person_henry,Henry Sleepsong,character,world
 person_holly,Holly,character,world

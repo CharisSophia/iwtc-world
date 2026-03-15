@@ -1,0 +1,109 @@
+node_id,node_type,label
+artifact_folly,artifact,Albrun's Folly
+artifact_glory,artifact,Unala's Glory
+artifact_iris,artifact,IRIS
+creat_Ash,creat,Ash
+creat_berry,creat,Berry
+creat_huana,creat,Huana
+creat_little_bear,creat,Little Bear
+creat_mine,creat,Mine
+creat_pet,creat,Pet
+faction_burzath,faction,Burzath
+faction_foreclaimers,faction,Foreclaimers
+faction_halverin,faction,Halverin’s Guard
+faction_hands,faction,Hands of Liamassa
+faction_ilguz,faction,Ilguz
+faction_jackals,faction,Jackals
+faction_krach-ul,faction,Krach-ul
+faction_michaeline,faction,Michaelines
+faction_modrons,faction,Modrons
+faction_remedy,faction,Arimid’s Remedy
+faction_sleepsong,faction,Sleepsong
+faction_spencer,faction,Spencer
+faction_thieves_guild,faction,Thieves Guild
+faction_tolanites,faction,Tolanites
+org_academy,org,Elysia Academy
+org_arcana,org,Arcana
+org_iwtc,org,IWTC
+org_king,org,King
+org_kirchefyre,org,Kirchefyr Temple
+org_myconids,org,Myconids
+org_orcs,org,Orc Nation
+org_party,org,Party
+org_ravencrest,org,Ravencrest
+org_spire,org,Spire
+person_alivyre,person,Alivyre Dawntracker
+person_aniya,person,Aniya Laccion
+person_anthony,person,Anthony Haldane
+person_avarna,person,Avarna
+person_azaar,person,Azaar
+person_bear,person,Bear
+person_braydon,person,Braydon
+person_bre,person,Breanna Arch
+person_caldwell,person,Selis Caldwell
+person_cara,person,Cara Windsoul
+person_clara,person,Clara
+person_credus,person,Credus
+person_cullen,person,Alister Cullen
+person_cunai,person,Cunai la Diara
+person_cursin,person,Cursin Helmaid
+person_dakgorim,person,Dakgorim
+person_darren,person,Darren Moore
+person_drib,person,Drib Gnoss
+person_elaris,person,Elaris Thorne
+person_emily,person,Emily Ashton
+person_evaine,person,Evaine MacRorie Thuryn
+person_faeryne,person,Faeryne
+person_fulbert,person,Fulbert Highwell
+person_garrick,person,Garrick
+person_gina,person,Gina
+person_henry,person,Henry Sleepsong
+person_holly,person,Holly
+person_idolus,person,Idolus
+person_jane,person,Jane
+person_joram,person,Joram MacRorie
+person_katy,person,Katy
+person_kavar,person,Kavar Protis
+person_kir,person,Kir Selaz
+person_liacyne,person,Liacyne Heseth
+person_liavarah,person,Liavarah
+person_loris,person,Edmund Loris
+person_luminia,person,Luminia
+person_makhala,person,Makhala
+person_mercy,person,Mercy Windriver
+person_mowser,person,Mowser
+person_newberry,person,Evan Newberry
+person_piers,person,Piers Ashton
+person_rhys,person,Rhys Thuryn
+person_ricardo,person,Ricardo Alcocer
+person_ronric,person,Ronric
+person_sala,person,Salaisha
+person_saphira,person,Saphira Celestia
+person_shworn,person,Shworn Sleepsong
+person_tanzo,person,Tanzo
+person_terry,person,Terry
+person_tiber,person,Tiber Nox
+person_todd,person,Todd
+person_torchholder,person,Kama Torchholder
+person_touya,person,Touya Akira
+person_unala,person,Unala Vortoise
+person_urgulk,person,Urgulk
+person_victor,person,Victor D Evernight
+person_vyssa,person,Vyssa
+person_warhammer,person,Khagra Warhammer
+person_zedna,person,Zedna Hresvelg
+place_blackburn,place,Blackburn
+place_blackwood,place,Blackwood
+place_brightfields,place,Brightfields
+place_crafthold,place,Crafthold
+place_dhassa,place,Dhassa
+place_elulind,place,Kingdom of Elulind
+place_elysia,place,Elysia
+place_guldrur,place,Guldrur
+place_killeth,place,Killeth
+place_northbend,place,North Bend FOB
+place_stonehome,place,Stonehome
+place_thurway,place,Thurway
+place_tolan,place,Kingdom of Tolàn
+place_torenth,place,Torenth
+place_wolfstream,place,Wolfstream Village
