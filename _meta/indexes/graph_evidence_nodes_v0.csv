@@ -1,7 +1,7 @@
 node_id,node_type,label
-artifact_folly,artifact,Albrun's Folly
-artifact_glory,artifact,Unala's Glory
-artifact_iris,artifact,IRIS
+art_folly,art,The Folly
+art_glory,art,Unala's Glory
+art_iris,art,IRIS
 file:_local/auto_transcripts/caravan tales session 1.txt,auto_transcripts,_local/auto_transcripts/caravan tales session 1.txt
 file:_local/auto_transcripts/caravan tales session 2.txt,auto_transcripts,_local/auto_transcripts/caravan tales session 2.txt
 file:_local/auto_transcripts/iwtc session 000.txt,auto_transcripts,_local/auto_transcripts/iwtc session 000.txt
@@ -254,7 +254,6 @@ chunk_168837,chunk,chunk_168837
 chunk_168839,chunk,chunk_168839
 chunk_168840,chunk,chunk_168840
 chunk_168841,chunk,chunk_168841
-chunk_168842,chunk,chunk_168842
 chunk_168843,chunk,chunk_168843
 chunk_168844,chunk,chunk_168844
 chunk_168845,chunk,chunk_168845
@@ -312,7 +311,6 @@ chunk_168916,chunk,chunk_168916
 chunk_168917,chunk,chunk_168917
 chunk_168919,chunk,chunk_168919
 chunk_168924,chunk,chunk_168924
-chunk_168929,chunk,chunk_168929
 chunk_168930,chunk,chunk_168930
 chunk_168931,chunk,chunk_168931
 chunk_168932,chunk,chunk_168932
@@ -384,7 +382,6 @@ chunk_169007,chunk,chunk_169007
 chunk_169008,chunk,chunk_169008
 chunk_169010,chunk,chunk_169010
 chunk_169011,chunk,chunk_169011
-chunk_169013,chunk,chunk_169013
 chunk_169014,chunk,chunk_169014
 chunk_169015,chunk,chunk_169015
 chunk_169016,chunk,chunk_169016
@@ -578,6 +575,7 @@ chunk_169241,chunk,chunk_169241
 chunk_169242,chunk,chunk_169242
 chunk_169244,chunk,chunk_169244
 chunk_169246,chunk,chunk_169246
+chunk_169248,chunk,chunk_169248
 chunk_169249,chunk,chunk_169249
 chunk_169251,chunk,chunk_169251
 chunk_169252,chunk,chunk_169252
@@ -652,7 +650,6 @@ chunk_169338,chunk,chunk_169338
 chunk_169339,chunk,chunk_169339
 chunk_169342,chunk,chunk_169342
 chunk_169343,chunk,chunk_169343
-chunk_169344,chunk,chunk_169344
 chunk_169346,chunk,chunk_169346
 chunk_169347,chunk,chunk_169347
 chunk_169349,chunk,chunk_169349
@@ -694,7 +691,6 @@ chunk_169395,chunk,chunk_169395
 chunk_169396,chunk,chunk_169396
 chunk_169397,chunk,chunk_169397
 chunk_169398,chunk,chunk_169398
-chunk_169399,chunk,chunk_169399
 chunk_169400,chunk,chunk_169400
 chunk_169401,chunk,chunk_169401
 chunk_169402,chunk,chunk_169402
@@ -815,9 +811,25 @@ chunk_169557,chunk,chunk_169557
 chunk_169558,chunk,chunk_169558
 chunk_169559,chunk,chunk_169559
 chunk_169561,chunk,chunk_169561
+chunk_169562,chunk,chunk_169562
+chunk_169563,chunk,chunk_169563
+chunk_169564,chunk,chunk_169564
+chunk_169567,chunk,chunk_169567
 chunk_169568,chunk,chunk_169568
+chunk_169570,chunk,chunk_169570
+chunk_169571,chunk,chunk_169571
+chunk_169572,chunk,chunk_169572
+chunk_169573,chunk,chunk_169573
+chunk_169574,chunk,chunk_169574
+chunk_169576,chunk,chunk_169576
+chunk_169577,chunk,chunk_169577
 chunk_169578,chunk,chunk_169578
+chunk_169579,chunk,chunk_169579
+chunk_169580,chunk,chunk_169580
 chunk_169581,chunk,chunk_169581
+chunk_169582,chunk,chunk_169582
+chunk_169583,chunk,chunk_169583
+chunk_169584,chunk,chunk_169584
 chunk_169588,chunk,chunk_169588
 chunk_169589,chunk,chunk_169589
 chunk_169590,chunk,chunk_169590
@@ -828,7 +840,6 @@ chunk_169595,chunk,chunk_169595
 chunk_169596,chunk,chunk_169596
 chunk_169597,chunk,chunk_169597
 chunk_169598,chunk,chunk_169598
-chunk_169600,chunk,chunk_169600
 chunk_169603,chunk,chunk_169603
 chunk_169605,chunk,chunk_169605
 chunk_169606,chunk,chunk_169606
@@ -848,7 +859,6 @@ chunk_169628,chunk,chunk_169628
 chunk_169630,chunk,chunk_169630
 chunk_169632,chunk,chunk_169632
 chunk_169633,chunk,chunk_169633
-chunk_169635,chunk,chunk_169635
 chunk_169639,chunk,chunk_169639
 chunk_169643,chunk,chunk_169643
 chunk_169644,chunk,chunk_169644
@@ -865,15 +875,13 @@ chunk_169658,chunk,chunk_169658
 chunk_169659,chunk,chunk_169659
 chunk_169660,chunk,chunk_169660
 chunk_169661,chunk,chunk_169661
-chunk_169662,chunk,chunk_169662
 chunk_169665,chunk,chunk_169665
 chunk_169666,chunk,chunk_169666
 chunk_169667,chunk,chunk_169667
-chunk_169669,chunk,chunk_169669
 chunk_169670,chunk,chunk_169670
 chunk_169675,chunk,chunk_169675
 chunk_169676,chunk,chunk_169676
-chunk_169677,chunk,chunk_169677
+chunk_169679,chunk,chunk_169679
 chunk_169683,chunk,chunk_169683
 chunk_169684,chunk,chunk_169684
 chunk_169685,chunk,chunk_169685
@@ -1040,7 +1048,6 @@ chunk_169859,chunk,chunk_169859
 chunk_169860,chunk,chunk_169860
 chunk_169861,chunk,chunk_169861
 chunk_169862,chunk,chunk_169862
-chunk_169863,chunk,chunk_169863
 chunk_169864,chunk,chunk_169864
 chunk_169865,chunk,chunk_169865
 chunk_169866,chunk,chunk_169866
@@ -1059,7 +1066,6 @@ chunk_169882,chunk,chunk_169882
 chunk_169883,chunk,chunk_169883
 chunk_169885,chunk,chunk_169885
 chunk_169886,chunk,chunk_169886
-chunk_169887,chunk,chunk_169887
 chunk_169888,chunk,chunk_169888
 chunk_169889,chunk,chunk_169889
 chunk_169890,chunk,chunk_169890
@@ -1143,7 +1149,6 @@ chunk_169981,chunk,chunk_169981
 chunk_169982,chunk,chunk_169982
 chunk_169983,chunk,chunk_169983
 chunk_169984,chunk,chunk_169984
-chunk_169985,chunk,chunk_169985
 chunk_169986,chunk,chunk_169986
 chunk_169988,chunk,chunk_169988
 chunk_169990,chunk,chunk_169990
@@ -1246,35 +1251,173 @@ chunk_170126,chunk,chunk_170126
 chunk_170128,chunk,chunk_170128
 chunk_170130,chunk,chunk_170130
 chunk_170131,chunk,chunk_170131
-creat_Ash,creat,Ash
+creat_ash,creat,Ash
+creat_bella,creat,Bella
 creat_berry,creat,Berry
 creat_huana,creat,Huana
 creat_little_bear,creat,Little Bear
+creat_mine,creat,Mine
 creat_pet,creat,Pet
-faction_burzath,faction,Burzath
-faction_foreclaimers,faction,Foreclaimers
-faction_halverin,faction,Halverin’s Guard
-faction_hands,faction,Hands of Liamassa
-faction_ilguz,faction,Ilguz
-faction_jackals,faction,Jackals
-faction_krach-ul,faction,Krach-ul
-faction_michaeline,faction,Michaelines
-faction_modrons,faction,Modrons
-faction_remedy,faction,Arimid’s Remedy
-faction_sleepsong,faction,Sleepsong
-faction_spencer,faction,Spencer
-faction_thieves_guild,faction,Thieves Guild
-faction_tolanites,faction,Tolanites
-org_academy,org,Elysia Academy
-org_arcana,org,Arcana
-org_iwtc,org,IWTC
-org_king,org,King
-org_kirchefyre,org,Kirchefyr Temple
+factn_burzath,factn,Burzath Clan
+factn_dakgorim,factn,Dakgorim Warband
+factn_huvorgha,factn,Huvorgha Clan
+factn_ilguz,factn,Ilguz Clan
+factn_krach-ul,factn,Krach-ul Clan
+factn_modrons,factn,Modrons
+factn_spencer,factn,The Spencer Heir
+factn_tolan_breakaway,factn,Tolanite Breakaway
+factn_tolanites,factn,Tolanites
+factn_wolf_clan,factn,Wolf Clan
+loc_abbey,loc,Wolfstream Abbey
+loc_blackburn,loc,Blackburn
+loc_blackwood,loc,Blackwood
+loc_brechin,loc,Brechin
+loc_brightfield,loc,Brightfields Village
+loc_cameth,loc,Cameth Brin
+loc_chandler_thurway,loc,Thurway Candlemaker
+loc_cliffborough,loc,Cliffborough
+loc_crafthold,loc,Crafthold
+loc_dereham,loc,Dereham
+loc_dhassa,loc,Dhassa
+loc_dhassa_castle,loc,Dhassa Castle
+loc_druwen,loc,Duchy of Druwen
+loc_eghad_mine,loc,Eghad's Mine
+loc_elulind,loc,Kingdom of Elulind
+loc_elysia,loc,Elysia
+loc_eth_aldur,loc,Eth Aldur
+loc_guldrur,loc,Guldrur
+loc_jotunheim,loc,Jotunheim Peaks
+loc_killeth,loc,Killeth
+loc_monadh_mor,loc,Monadh Mor
+loc_northbend,loc,North Bend FOB
+loc_rarmal,loc,Rarmal
+loc_sadies_leatherworking,loc,Sadie's Leatherworking
+loc_silversmith_killeth,loc,Killeth Silversmith
+loc_stonehome,loc,Stonehome
+loc_string,loc,The Silver String
+loc_tannery_killeth,loc,Killeth Tannery
+loc_thurway,loc,Thurway
+loc_tolan,loc,Kingdom of Tolàn
+loc_torenth,loc,Torenth
+loc_trollhills,loc,Trollhills
+loc_tyson_crossing,loc,Tyson Crossing
+loc_wolfstream,loc,Wolfstream Village
+off_dpty_cavekeepers,off,Deputy Cave Keeper
+off_dpty_folly,off,Deputy of the Folly
+off_dpty_jackals,off,Lieutenant of the Silver Jackals
+off_dpty_krach-ul,off,Krach-ul Captain at Crafthold
+off_dpty_ravens,off,Lieutenant of the Death Ravens
+off_dpty_river_valley_farms,off,River Valley Farm Deputy
+off_lead_cavekeepers,off,Chief Cave Keeper
+off_lead_ch_farm,off,Crafthold Reeve
+off_lead_ch_forge,off,Crafthold Forgemaster
+off_lead_ch_greenhouse,off,Crafthold Master Gardener
+off_lead_ch_guests,off,Crafthold Hospitaller
+off_lead_ch_square,off,Crafthold Market Warden
+off_lead_ch_stables,off,Crafthold Stablemaster
+off_lead_ch_warehouse,off,Crafthold Quartermaster
+off_lead_chancery,off,Chancellor of Elulind
+off_lead_cliffborough,off,Leader of Cliffborough
+off_lead_crafthold,off,Crafthold Counselor
+off_lead_diamond,off,Spymaster of Elulind
+off_lead_druwen,off,Duke of Druwen
+off_lead_elulind,off,King of Elulind
+off_lead_folly,off,Lead of the Folly
+off_lead_glimmerwell,off,Leader of Glimmerwell Shrine
+off_lead_hands,off,Hands Captain
+off_lead_hands_squad_ronric,off,Leader of Ronric's Squad
+off_lead_hands_squad_todd,off,Leader of Todd's Squad
+off_lead_hands_squad_vyssa,off,Leader of Vyssa's Squad
+off_lead_ironfang,off,Ironfang Commander
+off_lead_jackals,off,Captain of the Silver Jackals
+off_lead_krach-ul,off,Krach-ul Warchief at Crafthold
+off_lead_krach-ul_cavekeepers,off,Keeper of the Krach-ul Caves at Crafthold
+off_lead_krach-ul_handlers,off,Lead Handler of the Krach-ul at Crafthold
+off_lead_michaeline_joram,off,Michaeline Company Commander
+off_lead_military,off,Marshal of Elulind
+off_lead_orc_religion,off,High Priest of the Orc Nation
+off_lead_orcs,off,Warlord of the Orc Nation
+off_lead_palace_guard,off,Captain of the Palace Guard
+off_lead_rangers,off,Ranger Commander
+off_lead_rarmal,off,Warlord of Rarmal
+off_lead_ravens,off,Captain of the Death Ravens
+off_lead_red_fang,off,Red Fang Master
+off_lead_red_fang_squad_gremze,off,Leader of Gremze's Squad
+off_lead_remedy,off,Leader of Airmid's Remedy
+off_lead_river_valley_farms,off,River Valley Farm Warden
+off_lead_royal_house,off,Seneschal of Dhassa Castle
+off_lead_sleepsong,off,Clan Matriarch
+off_lead_stonehome,off,Leader of Stonehome
+off_lead_stonehome_squad_ylola,off,Leader of Ylola's Scout Squad
+off_lead_stonehome_squad_zanlen,off,Leader of Zanlen's Scout Squad
+off_lead_temple_airmid,off,High Priest of Airmid
+off_lead_tolan_healers,off,Tolàn Master Healer
+off_lead_wolf,off,Wolf Clan Alpha
+off_lead_wolfstream,off,Abbess of Wolfstream Abbey
+off_lead_wolfstream_hospitaller,off,Hospitaller of Wolfstream Abbey
+off_lead_wolfstream_stables,off,Stablemaster of Wolfstream Abbey
+off_ops_druwen_field_marshal,off,Field Marshal of Druwen
+off_ops_folly,off,Operations Lead of the Folly
+off_ops_ravens_spymaster,off,Spymaster of the Death Ravens
+off_ops_wolfstream_blacksmith,off,Blacksmith of Wolfstream Abbey
+off_ops_wolfstream_cellarer,off,Cellarer of Wolfstream Abbey
+off_ops_wolfstream_herbalist,off,Herbalist of Wolfstream Abbey
+off_ops_wolfstream_hunters,off,Huntsman of Wolfstream Abbey
+off_ops_wolfstream_weaver,off,Weaver of Wolfstream Abbey
+off_weapons_master,off,Weapons Master of Elulind
+org_academy_elysia,org,Elysian Academy
+org_cavekeepers,org,Cave Keepers
+org_ch_farm,org,Crafthold Home Farm
+org_ch_forge,org,Crafthold Forge
+org_ch_greenhouse,org,Crafthold Greenhouse
+org_ch_guests,org,Crafthold Guest House
+org_ch_hall,org,Crafthold Main Hall
+org_ch_residents,org,Crafthold Residences
+org_ch_square,org,Crafthold Town Square
+org_ch_stables,org,Crafthold Stables
+org_ch_warehouse,org,Crafthold Warehouse and Supply
+org_chancery,org,Chancery of Elulind
+org_cliffborough,org,Cliffborough
+org_crafthold,org,Crafthold Community
+org_dhassa_house,org,Household of Dhassa Castle
+org_diamond,org,Black Diamond
+org_druwen,org,Duchy of Druwen
+org_elulind,org,Court of Elulind
+org_elulind_army,org,Elulind Army
+org_folly,org,Albrun's Folly
+org_glimmerwell,org,Glimmerwell Shrine
+org_halverin,org,Halverin's Guard
+org_hands,org,Hands of Liamassa
+org_hands_squad_ronric,org,Ronric's Squad
+org_hands_squad_todd,org,Todd's Squad
+org_hands_squad_vyssa,org,Vyssa's Squad
+org_ironfang,org,Ironfang
+org_iwtc,org,Iron Wolf Trading Company
+org_jackals,org,Silver Jackals
+org_krach-ul,org,Krach-ul at Crafthold
+org_krach-ul_cavekeepers,org,Krach-ul Cavekeepers at Crafthold
+org_krach-ul_handlers,org,Krach-ul Animal Handlers at Crafthold
+org_michaeline,org,Order of St Michael
+org_military,org,Military of Elulind
 org_myconids,org,Myconids
-org_party,org,Party
-org_ravencrest,org,Ravencrest
-org_spire,org,Spire
-org_wolfstream,org,Wolfstream Abbey
+org_orc_religion,org,Orc Religion
+org_orcs,org,Orc Nation
+org_rangers,org,Elulind Ranger Corp
+org_rarmal,org,Rarmal Garrison
+org_ravencrest,org,Ravencrest Merchant Family
+org_ravens,org,Death Ravens
+org_red_fang,org,Red Fang
+org_red_fang_squad_gremze,org,Gremze's Squad
+org_remedy,org,Airmid's Remedy
+org_river_valley_farms,org,River Valley Farm Settlements
+org_sleepsong,org,Sleepsong Clan
+org_stonehome,org,Stonehome
+org_stonehome_squad_ylola,org,Ylola's Scout Squad
+org_stonehome_squad_zanlen,org,Zanlen's Scout Squad
+org_temple_airmid,org,Temple of Airmid
+org_thieves,org,Thieves Guild
+org_tolan,org,Tolàn Court
+org_tolan_healers,org,Tolàn Healers' Guild
 file:_local/pbp_transcripts/PbP10 - The Second Camp.md,pbp_transcripts,_local/pbp_transcripts/PbP10 - The Second Camp.md
 file:_local/pbp_transcripts/PbP11 - Lia and the Tolanites.md,pbp_transcripts,_local/pbp_transcripts/PbP11 - Lia and the Tolanites.md
 file:_local/pbp_transcripts/PbP12 - Meeting in the Vestry.md,pbp_transcripts,_local/pbp_transcripts/PbP12 - Meeting in the Vestry.md
@@ -1284,137 +1427,190 @@ file:_local/pbp_transcripts/PbP15 - Debrief and Safety.md,pbp_transcripts,_local
 file:_local/pbp_transcripts/PbP16 - Nightfall in Elysia.md,pbp_transcripts,_local/pbp_transcripts/PbP16 - Nightfall in Elysia.md
 file:_local/pbp_transcripts/PbP17 - Night Meetings.md,pbp_transcripts,_local/pbp_transcripts/PbP17 - Night Meetings.md
 file:_local/pbp_transcripts/PbP18 - TBD.md,pbp_transcripts,_local/pbp_transcripts/PbP18 - TBD.md
-person_alivyre,person,Alivyre Dawntracker
-person_aniya,person,Aniya Laccion
-person_aren,person,Aren
-person_arthur,person,Arthur Coldstone
-person_avarna,person,Avarna
-person_azaar,person,Azaar
-person_baltael,person,Baltael
-person_bear,person,Bear
-person_bella,person,Bella
-person_beni,person,Beni Tinkerlaugh
-person_bixley,person,Bixley
-person_bloodaxe,person,Ungagh Bloodaxe
-person_braydon,person,Braydon
-person_bre,person,Breanna Arch
-person_brigitte,person,Brigitte Ware
-person_caldwell,person,Selis Caldwell
-person_cara,person,Cara Windsoul
-person_cergad,person,Cergad
-person_chuck,person,Chuck
-person_clara,person,Clara
-person_claw,person,Claw of Ironfang
-person_connor,person,Connor
-person_credus,person,Credus
-person_cullen,person,Alister Cullen
-person_cunai,person,Cunai la Diara
-person_cursin,person,Cursin Helmaid
-person_dakgorim,person,Dakgorim
-person_darren,person,Darren Moore
-person_david_bowie,person,David Bowie
-person_david_herder,person,David Herder
-person_draug,person,Draug
-person_drib,person,Drib Gnoss
-person_eardwulf,person,Eardwulf Harland
-person_edda,person,Edda MacInnis
-person_eghad,person,Eghad
-person_eira,person,Eira Sleepsong
-person_elaris,person,Elaris Thorne
-person_elias,person,Elias Stormriver
-person_emily,person,Emily Ashton
-person_evaine,person,Evaine MacRorie Thuryn
-person_faeryne,person,Faeryne
-person_fenrir,person,Fenrir
-person_fritz,person,Fritz
-person_fulbert,person,Fulbert Highwell
-person_garrick,person,Garrick
-person_gina,person,Gina
-person_grace,person,Grace Kinneon
-person_hadar,person,Hadar
-person_haldane,person,Anthony Haldane
-person_hammer,person,Hammer of Ironfang
-person_henry,person,Henry Sleepsong
-person_holly,person,Holly
-person_idolus,person,Idolus
-person_jane,person,Jane
-person_jemmy,person,Jemmy
-person_joram,person,Joram MacRorie
-person_kaedra,person,Kaedra
-person_kaitlyn,person,Kaitlyn
-person_katy,person,Katy
-person_kavar,person,Kavar Protis
-person_kir,person,Kir Selaz
-person_kluta,person,Kluta
-person_lia,person,Lia Fabriana
-person_liacyne,person,Liacyne Heseth
-person_liavarah,person,Liavarah
-person_light,person,Light of Ironfang
-person_loris,person,Edmund Loris
-person_luminia,person,Luminia
-person_macfeegle,person,MacFeegle
-person_makhala,person,Makhala
-person_melba,person,Melba Harland
-person_mercy,person,Mercy Windriver
-person_moon,person,Moon
-person_mowser,person,Mowser
-person_nala,person,Nala
-person_newberry,person,Evan Newberry
-person_norris,person,Norris
-person_piers,person,Piers Ashton
-person_poppy,person,Poppy Everhold
-person_rhona,person,Rhona
-person_rhys,person,Rhys Thuryn
-person_ricardo,person,Ricardo Alcocer
-person_ronric,person,Ronric
-person_sala,person,Salaisha
-person_saphira,person,Saphira Celestia
-person_shadow,person,Shadow of Ironfang
-person_shargaas,person,Shargaas
-person_shworn,person,Shworn Sleepsong
-person_soren,person,Soren
-person_spike,person,Spike of Ironfang
-person_tanzo,person,Tanzo
-person_tawyn,person,Tawyn
-person_terry,person,Terry
-person_thorne,person,Aldren Thorne
-person_tiber,person,Tiber Nox
-person_todd,person,Todd
-person_torchholder,person,Kama Torchholder
-person_touya,person,Touya Akira
-person_unala,person,Unala Vortoise
-person_urgulk,person,Urgulk
-person_victor,person,Victor D Evernight
-person_vyssa,person,Vyssa
-person_warhammer,person,Khagra Warhammer
-person_zedna,person,Zedna Hresvelg
-place_abbey,place,Wolfstream Abbey
-place_blackburn,place,Blackburn
-place_blackwood,place,Blackwood
-place_brechin,place,Brechin
-place_brightfields,place,Brightfields
-place_cameth,place,Cameth Brin
-place_cliffborough,place,Cliffborough
-place_crafthold,place,Crafthold
-place_dereham,place,Dereham
-place_dhassa,place,Dhassa
-place_druwen,place,Duchy of Druwen
-place_elulind,place,Kingdom of Elulind
-place_elysia,place,Elysia
-place_elysian,place,Elysian
-place_guldrur,place,Guldrur
-place_jotunheim,place,Jotunheim Peaks
-place_killeth,place,Killeth
-place_monadh_mor,place,Monadh Mor
-place_northbend,place,North Bend FOB
-place_rarmal,place,Rarmal
-place_stonehome,place,Stonehome
-place_thurway,place,Thurway
-place_tolan,place,Kingdom of Tolàn
-place_torenth,place,Torenth
-place_trollhills,place,Trollhills
-place_tyson_crossing,place,Tyson Crossing
-place_wolfstream,place,Wolfstream Village
+pers_abram,pers,Abram
+pers_addy,pers,Addy
+pers_alina,pers,Alina
+pers_alivyre,pers,Alivyre Dawntracker
+pers_andrei,pers,Andrei
+pers_aniya,pers,Aniya Laccion
+pers_anthony,pers,Anthony Haldane
+pers_aren,pers,Aren
+pers_arthur,pers,Arthur Coldstone
+pers_aurdac_cefthed,pers,Aurdac Cefthed
+pers_avarna,pers,Avarna
+pers_azaar,pers,Azaar
+pers_baltael,pers,Baltael
+pers_bear,pers,Bear
+pers_bella,pers,Bella
+pers_beni,pers,Beni Tinkerlaugh
+pers_bill,pers,Bill not-Sleepsong
+pers_bill_harrington,pers,Bill Harrington
+pers_bixley,pers,Bixley
+pers_braydon,pers,Braydon
+pers_bre,pers,Breanna Arch
+pers_brigitte_ware,pers,Mother Brigitte Ware
+pers_caldwell,pers,Selis Caldwell
+pers_cara,pers,Cara Windsoul
+pers_catrin_woodwell,pers,Catrin Woodwell
+pers_cergad,pers,Cergad
+pers_charlie,pers,Charlie
+pers_chase,pers,Chase
+pers_chuck,pers,Chuck
+pers_clara,pers,Clara
+pers_claw,pers,Claw of Ironfang
+pers_connor,pers,Connor
+pers_credus,pers,Credus
+pers_cullen,pers,Alister Cullen
+pers_cunai,pers,Cunai la Diara
+pers_cursin,pers,Cursin Helmaid
+pers_dakgorim,pers,Dakgorim
+pers_darren,pers,Darren Moore
+pers_david_bowie,pers,David Bowie
+pers_david_herder,pers,David Herder
+pers_dorgath_stoneeye,pers,Dorgath Stone-Eye
+pers_draug,pers,Draug
+pers_drib,pers,Drib Gnoss
+pers_druven,pers,Druven
+pers_eardwulf,pers,Eardwulf Harland
+pers_ebele,pers,Ebele
+pers_edda,pers,Edda MacInnis
+pers_edric_tanner,pers,Edric Tanner
+pers_eghad,pers,Eghad
+pers_eira,pers,Eira Sleepsong
+pers_elaris,pers,Elaris Thorne
+pers_elias,pers,Elias Stormriver
+pers_emily,pers,Emily Ashton
+pers_emlin,pers,Emlin Fuzzyneedle
+pers_evaine,pers,Evaine MacRorie Thuryn
+pers_faeryne,pers,Faeryne
+pers_fenrir,pers,Fenrir
+pers_frita,pers,Sister Frita
+pers_fritz,pers,Fritz
+pers_fulbert,pers,Fulbert Highwell
+pers_garrick,pers,Garrick
+pers_george,pers,George
+pers_gerard,pers,Gerard
+pers_getkleblish,pers,Getkleblish Shorttwist
+pers_gina,pers,Gina
+pers_goren,pers,Goren
+pers_gorvak_krachul,pers,Gorvak of Krach-ul
+pers_grace,pers,Grace Kinneon
+pers_gremze,pers,Gremze
+pers_grummol_hearthhand,pers,Grummol Hearthhand
+pers_hadar,pers,Hadar
+pers_hammer,pers,Hammer of Ironfang
+pers_harold,pers,Brother Harold
+pers_henry,pers,Henry Sleepsong
+pers_holly,pers,Holly
+pers_horrom,pers,Horrom
+pers_hrafn,pers,Hrafn
+pers_hugh_calder,pers,Hugh Calder
+pers_idolus,pers,Idolus
+pers_jamfyr,pers,Jamfyr
+pers_jane,pers,Jane
+pers_jareth_heartarm,pers,Jareth Heartarm
+pers_javan,pers,Javan MacInnis
+pers_jemmy,pers,Jemmy
+pers_jessie_hobbs,pers,Jessie Hobbs
+pers_jonas_fenwick,pers,Jonas Fenwick
+pers_joram,pers,Joram MacRorie
+pers_josiah,pers,Josiah
+pers_kaedra,pers,Kaedra
+pers_kaitlyn,pers,Kaitlyn
+pers_karsen,pers,Sister Karsen
+pers_kate,pers,Kate
+pers_katia,pers,Katia
+pers_katy,pers,Katy
+pers_kavar,pers,Kavar Protis
+pers_kelrag,pers,Kelrag
+pers_kendel,pers,Kendel Shamaris
+pers_khagra_warhammer,pers,Khagra Warhammer
+pers_kierton,pers,Kierton
+pers_kir,pers,Kir Selaz
+pers_kluta,pers,Kluta
+pers_lannji,pers,Lannji Wildstone
+pers_lia,pers,Lia Fabriana
+pers_liacyne,pers,Liacyne Heseth
+pers_liavarah,pers,Liavarah
+pers_light,pers,Light of Ironfang
+pers_loris,pers,Edmund Loris
+pers_lou,pers,Lou
+pers_luminia,pers,Luminia
+pers_macfeegle,pers,MacFeegle
+pers_makhala,pers,Makhala
+pers_malou,pers,Malou
+pers_margot,pers,Margot
+pers_maribel_holt,pers,Maribel Holt
+pers_mazorn_blindscar,pers,Mazorn Blindscar
+pers_melba,pers,Melba Harland
+pers_mercy,pers,Mercy Windriver
+pers_miran,pers,Miran
+pers_moon,pers,Moon
+pers_mornak,pers,Mornak
+pers_mowser,pers,Mowser
+pers_nala,pers,Nala
+pers_nella_dyer,pers,Nella Dyer
+pers_newberry,pers,Evan Newberry
+pers_nolan,pers,Nolan
+pers_norris,pers,Brother Norris
+pers_obby,pers,Obby
+pers_olivia_rios,pers,Olivia Rios
+pers_orgoth_one_eye,pers,Orgoth One-Eye
+pers_piers,pers,Piers Ashton
+pers_poppy,pers,Poppy Everhold
+pers_quave,pers,Quave
+pers_quinn,pers,Quinn
+pers_rami,pers,Rami
+pers_rhona,pers,Rhona
+pers_rhys,pers,Rhys Thuryn
+pers_ricardo,pers,Ricardo Alcocer
+pers_robart_thayne,pers,"Robart ""Rob"" Thayne"
+pers_robbie,pers,Robbie
+pers_roland,pers,Roland
+pers_ronric,pers,Ronric
+pers_sala,pers,Salaisha
+pers_saphira,pers,Saphira Celestia
+pers_sarai,pers,Sarai
+pers_sarga_bonebraid,pers,Sarga Bonebraid
+pers_sekani,pers,Sekani
+pers_sens,pers,Sens
+pers_shadow,pers,Shadow of Ironfang
+pers_shargaas,pers,Shargaas
+pers_shulhug,pers,Shulhug
+pers_shworn,pers,Shworn Sleepsong
+pers_soren,pers,Soren
+pers_spike,pers,Spike of Ironfang
+pers_tandagh,pers,Tandagh
+pers_tanzo,pers,Tanzo
+pers_tawyn,pers,Tawyn
+pers_taylor,pers,Taylor
+pers_taylor_ochoa,pers,Taylor Ochoa
+pers_terry,pers,Terry
+pers_thalia,pers,Thalia Ravencrest
+pers_thraga,pers,Thraga
+pers_tiber,pers,Tiber Nox
+pers_todd,pers,Todd
+pers_torchholder,pers,Kama Torchholder
+pers_touya,pers,Touya Akira
+pers_towne,pers,Towne
+pers_tozhug,pers,Tozhug
+pers_unala,pers,Unala Vortoise
+pers_ungagh_bloodaxe,pers,Ungagh Bloodaxe
+pers_urgulk,pers,Urgulk
+pers_urla,pers,Urla
+pers_urmrig,pers,Urmrig
+pers_varkha_redtusks,pers,Varkha Red-Tusks
+pers_velka_ironstitch,pers,Velka Ironstitch
+pers_venfi,pers,Venfi
+pers_victor,pers,Victor D Evernight
+pers_vyssa,pers,Vyssa
+pers_warin,pers,Warin de Grey
+pers_william,pers,William Sleepsong
+pers_wogharod,pers,Wogharod
+pers_ylola,pers,Ylola Toggleblock
+pers_zanlen,pers,Zanlen Broadstitch
+pers_zedna,pers,Zedna Hresvelg
+pers_zohra,pers,Master Zohra
 file:_local/planning_notes/Allip Encounter Notes.md,planning_notes,_local/planning_notes/Allip Encounter Notes.md
 file:_local/planning_notes/Elulind map descriptions.md,planning_notes,_local/planning_notes/Elulind map descriptions.md
 file:_local/planning_notes/The Premature Pods Mystery.md,planning_notes,_local/planning_notes/The Premature Pods Mystery.md
@@ -1426,42 +1622,83 @@ file:_local/planning_notes/current_Dhassa staged narration.md,planning_notes,_lo
 file:_local/planning_notes/current_IWTC names.md,planning_notes,_local/planning_notes/current_IWTC names.md
 file:_local/planning_notes/current_IWTC planning notes.md,planning_notes,_local/planning_notes/current_IWTC planning notes.md
 file:_local/planning_notes/current_Kwalish.md,planning_notes,_local/planning_notes/current_Kwalish.md
-player_bysickle,player,Bysickle
-player_charis,player,Charis
-player_crowe,player,Crowe
-player_kalina,player,Kalina
-player_lia,player,Lia Whitewolf
-player_phil,player,Phil
-player_remi,player,RemiDeBoi
-player_scott,player,Scotty
-player_spartan,player,Spartan
-player_thon,player,Thonatmo
-player_venric,player,Venric
-player_vixie,player,VixieCake
+play_amy,play,Amy
+play_ana,play,Ana
+play_bysickle,play,Bysickle
+play_charis,play,Charis
+play_crowe,play,Crowe
+play_delta,play,Delta
+play_kaci,play,Kaci
+play_kalina,play,Kalina
+play_lia,play,Lia Whitewolf
+play_phil,play,Phil
+play_remi,play,RemiDeBoi
+play_scott,play,Scott
+play_spartan,play,Spartan
+play_thon,play,Thonatmo
+play_venric,play,Venric
+play_vixie,play,VixieCake
 ref_kwalish,ref,Kwalish
+role_adm_academy_professor,role,Professor of the Elysian Academy
+role_adm_academy_student,role,Student of the Elysian Academy
+role_adm_orcs_staff,role,Orc Tribal Staff
+role_adm_tolan_scholar,role,Tolàn Scholar
+role_arc_folly_mage,role,Mage of the Folly
+role_arc_orcs_fire_mage,role,Orc Fire Mage
+role_arc_tolan_healer,role,Tolàn Healer
+role_arc_tolan_mentir,role,Mentir
+role_cmb_folly_fighter,role,Fighter of the Folly
+role_cmb_folly_striker,role,Striker of the Folly
+role_cmb_ironfang_builder,role,Ironfang Builder
+role_cmb_ironfang_miner,role,Ironfang Miner
+role_craft_ch_hall_brewer,role,Crafthold Brewer
+role_craft_folly_carpenter,role,Carpenter of the Folly
+role_craft_folly_tinker,role,Tinker of the Folly
+role_eng_folly_sailing_master,role,Sailing Master of the Folly
+role_eng_orcs_teleport,role,Orc Device Maker
+role_intel_smuggler_shadowstone,role,Shadow Stone Smuggler
+role_logis_folly_quartermaster,role,Quartermaster of the Folly
+role_med_folly_healer,role,Healer of the Folly
+role_ops_ch_stables_breeder,role,Crafthold Breeder
+role_ops_ch_stables_teamster,role,Crafthold Teamster
+role_ops_cliffborough_hermit,role,Hermit of Cliffborough
+role_ops_folly_cabin_boy,role,Cabin Boy of the Folly
+role_ops_folly_powder_monkey,role,Powder Monkey of the Folly
+role_ops_jackals_sergeant,role,Silver Jackals Sergeant
+role_ops_orc_mining_squadleader,role,Orc Mining Squad Leader
+role_ops_orcs_labor_master,role,Orc Labor Master
+role_recon_ch_stables_hunter,role,Crafthold Hunter
+role_recon_folly_scout,role,Scout of the Folly
+role_rng_folly_sniper,role,Sniper of the Folly
 file:_local/session_notes/IWTC session notes 1-50.md,session_notes,_local/session_notes/IWTC session notes 1-50.md
 file:_local/session_notes/IWTC session notes 101-150.md,session_notes,_local/session_notes/IWTC session notes 101-150.md
 file:_local/session_notes/IWTC session notes 51-100.md,session_notes,_local/session_notes/IWTC session notes 51-100.md
 file:_local/session_notes/Kavar notes.md,session_notes,_local/session_notes/Kavar notes.md
 file:_local/session_notes/current_IWTC session notes.md,session_notes,_local/session_notes/current_IWTC session notes.md
+vocab:abbess of wolfstream abbey,vocab,Abbess of Wolfstream Abbey
 vocab:abbey,vocab,Abbey
+vocab:abram,vocab,Abram
 vocab:academy,vocab,Academy
+vocab:addy,vocab,Addy
+vocab:airmid's remedy,vocab,Airmid's Remedy
 vocab:albrun's folly,vocab,Albrun's Folly
-vocab:aldren thorne,vocab,Aldren Thorne
+vocab:alina,vocab,Alina
 vocab:alister,vocab,Alister
 vocab:alister cullen,vocab,Alister Cullen
 vocab:alivyre,vocab,Alivyre
 vocab:alivyre dawntracker,vocab,Alivyre Dawntracker
+vocab:amy,vocab,Amy
+vocab:ana,vocab,Ana
+vocab:andrei,vocab,Andrei
 vocab:aniya,vocab,Aniya
 vocab:aniya laccion,vocab,Aniya Laccion
 vocab:anthony,vocab,Anthony
 vocab:anthony haldane,vocab,Anthony Haldane
-vocab:arcana,vocab,Arcana
 vocab:aren,vocab,Aren
-vocab:arimid’s remedy,vocab,Arimid’s Remedy
 vocab:arthur,vocab,Arthur
 vocab:arthur coldstone,vocab,Arthur Coldstone
 vocab:ash,vocab,Ash
+vocab:aurdac cefthed,vocab,Aurdac Cefthed
 vocab:avarna,vocab,Avarna
 vocab:azaar,vocab,Azaar
 vocab:baltael,vocab,Baltael
@@ -1470,8 +1707,12 @@ vocab:bella,vocab,Bella
 vocab:beni,vocab,Beni
 vocab:beni tinkerlaugh,vocab,Beni Tinkerlaugh
 vocab:berry,vocab,Berry
+vocab:bill harrington,vocab,Bill Harrington
+vocab:bill not-sleepsong,vocab,Bill not-Sleepsong
 vocab:bixley,vocab,Bixley
+vocab:black diamond,vocab,Black Diamond
 vocab:blackburn,vocab,Blackburn
+vocab:blacksmith of wolfstream abbey,vocab,Blacksmith of Wolfstream Abbey
 vocab:blackwood,vocab,Blackwood
 vocab:bloodaxe,vocab,Bloodaxe
 vocab:braydon,vocab,Braydon
@@ -1479,24 +1720,62 @@ vocab:bre,vocab,Bre
 vocab:breanna arch,vocab,Breanna Arch
 vocab:brechin,vocab,Brechin
 vocab:brightfield,vocab,Brightfield
-vocab:brightfields,vocab,Brightfields
+vocab:brightfields village,vocab,Brightfields Village
 vocab:brigitte,vocab,Brigitte
-vocab:brigitte ware,vocab,Brigitte Ware
-vocab:burzath,vocab,Burzath
+vocab:brother harold,vocab,Brother Harold
+vocab:brother norris,vocab,Brother Norris
+vocab:burzath clan,vocab,Burzath Clan
 vocab:bysickle,vocab,Bysickle
+vocab:cabin boy of the folly,vocab,Cabin Boy of the Folly
 vocab:caldwell,vocab,Caldwell
 vocab:cameth brin,vocab,Cameth Brin
+vocab:captain of the death ravens,vocab,Captain of the Death Ravens
+vocab:captain of the palace guard,vocab,Captain of the Palace Guard
+vocab:captain of the silver jackals,vocab,Captain of the Silver Jackals
 vocab:cara,vocab,Cara
 vocab:cara windsoul,vocab,Cara Windsoul
+vocab:carpenter of the folly,vocab,Carpenter of the Folly
+vocab:catrin woodwell,vocab,Catrin Woodwell
+vocab:cave keepers,vocab,Cave Keepers
+vocab:cellarer of wolfstream abbey,vocab,Cellarer of Wolfstream Abbey
 vocab:cergad,vocab,Cergad
+vocab:chancellor of elulind,vocab,Chancellor of Elulind
+vocab:chancery of elulind,vocab,Chancery of Elulind
 vocab:charis,vocab,Charis
+vocab:charlie,vocab,Charlie
+vocab:chase,vocab,Chase
+vocab:chief cave keeper,vocab,Chief Cave Keeper
 vocab:chuck,vocab,Chuck
+vocab:clan matriarch,vocab,Clan Matriarch
 vocab:clara,vocab,Clara
 vocab:claw,vocab,Claw
 vocab:claw of ironfang,vocab,Claw of Ironfang
 vocab:cliffborough,vocab,Cliffborough
 vocab:connor,vocab,Connor
+vocab:court of elulind,vocab,Court of Elulind
 vocab:crafthold,vocab,Crafthold
+vocab:crafthold breeder,vocab,Crafthold Breeder
+vocab:crafthold brewer,vocab,Crafthold Brewer
+vocab:crafthold community,vocab,Crafthold Community
+vocab:crafthold counselor,vocab,Crafthold Counselor
+vocab:crafthold forge,vocab,Crafthold Forge
+vocab:crafthold forgemaster,vocab,Crafthold Forgemaster
+vocab:crafthold greenhouse,vocab,Crafthold Greenhouse
+vocab:crafthold guest house,vocab,Crafthold Guest House
+vocab:crafthold home farm,vocab,Crafthold Home Farm
+vocab:crafthold hospitaller,vocab,Crafthold Hospitaller
+vocab:crafthold hunter,vocab,Crafthold Hunter
+vocab:crafthold main hall,vocab,Crafthold Main Hall
+vocab:crafthold market warden,vocab,Crafthold Market Warden
+vocab:crafthold master gardener,vocab,Crafthold Master Gardener
+vocab:crafthold quartermaster,vocab,Crafthold Quartermaster
+vocab:crafthold reeve,vocab,Crafthold Reeve
+vocab:crafthold residences,vocab,Crafthold Residences
+vocab:crafthold stablemaster,vocab,Crafthold Stablemaster
+vocab:crafthold stables,vocab,Crafthold Stables
+vocab:crafthold teamster,vocab,Crafthold Teamster
+vocab:crafthold town square,vocab,Crafthold Town Square
+vocab:crafthold warehouse and supply,vocab,Crafthold Warehouse and Supply
 vocab:credus,vocab,Credus
 vocab:crowe,vocab,Crowe
 vocab:crowethedualityking,vocab,CroweTheDualityKing
@@ -1506,23 +1785,35 @@ vocab:cunai la diara,vocab,Cunai la Diara
 vocab:cursin,vocab,Cursin
 vocab:cursin helmaid,vocab,Cursin Helmaid
 vocab:dakgorim,vocab,Dakgorim
+vocab:dakgorim warband,vocab,Dakgorim Warband
 vocab:darren,vocab,Darren
 vocab:darren moore,vocab,Darren Moore
 vocab:david bowie,vocab,David Bowie
 vocab:david herder,vocab,David Herder
+vocab:death ravens,vocab,Death Ravens
+vocab:delta,vocab,Delta
+vocab:deputy cave keeper,vocab,Deputy Cave Keeper
+vocab:deputy of the folly,vocab,Deputy of the Folly
 vocab:dereham,vocab,Dereham
 vocab:dhassa,vocab,Dhassa
+vocab:dhassa castle,vocab,Dhassa Castle
+vocab:dorgath stone-eye,vocab,Dorgath Stone-Eye
 vocab:draug,vocab,Draug
 vocab:drib,vocab,Drib
 vocab:drib gnoss,vocab,Drib Gnoss
+vocab:druven,vocab,Druven
 vocab:druwen,vocab,Druwen
 vocab:duchy of druwen,vocab,Duchy of Druwen
+vocab:duke of druwen,vocab,Duke of Druwen
 vocab:eardwulf,vocab,Eardwulf
 vocab:eardwulf harland,vocab,Eardwulf Harland
+vocab:ebele,vocab,Ebele
 vocab:edda,vocab,Edda
 vocab:edda macinnis,vocab,Edda MacInnis
 vocab:edmund loris,vocab,Edmund Loris
+vocab:edric tanner,vocab,Edric Tanner
 vocab:eghad,vocab,Eghad
+vocab:eghad's mine,vocab,Eghad's Mine
 vocab:eira,vocab,Eira
 vocab:eira sleepsong,vocab,Eira Sleepsong
 vocab:elaris,vocab,Elaris
@@ -1530,107 +1821,211 @@ vocab:elaris thorne,vocab,Elaris Thorne
 vocab:elias,vocab,Elias
 vocab:elias stormriver,vocab,Elias Stormriver
 vocab:elulind,vocab,Elulind
+vocab:elulind army,vocab,Elulind Army
+vocab:elulind ranger corp,vocab,Elulind Ranger Corp
 vocab:elysia,vocab,Elysia
-vocab:elysia academy,vocab,Elysia Academy
-vocab:elysian,vocab,Elysian
+vocab:elysian academy,vocab,Elysian Academy
 vocab:emily,vocab,Emily
 vocab:emily ashton,vocab,Emily Ashton
+vocab:emlin fuzzyneedle,vocab,Emlin Fuzzyneedle
+vocab:eth aldur,vocab,Eth Aldur
 vocab:evaine,vocab,Evaine
 vocab:evaine macrorie thuryn,vocab,Evaine MacRorie Thuryn
 vocab:evan newberry,vocab,Evan Newberry
 vocab:faeryne,vocab,Faeryne
 vocab:fenrir,vocab,Fenrir
+vocab:field marshal of druwen,vocab,Field Marshal of Druwen
+vocab:fighter of the folly,vocab,Fighter of the Folly
 vocab:folly,vocab,Folly
-vocab:foreclaimers,vocab,Foreclaimers
 vocab:fritz,vocab,Fritz
 vocab:fulbert,vocab,Fulbert
 vocab:fulbert highwell,vocab,Fulbert Highwell
 vocab:garrick,vocab,Garrick
+vocab:george,vocab,George
+vocab:gerard,vocab,Gerard
+vocab:getkleblish shorttwist,vocab,Getkleblish Shorttwist
 vocab:gina,vocab,Gina
+vocab:glimmerwell shrine,vocab,Glimmerwell Shrine
 vocab:glory,vocab,Glory
+vocab:goren,vocab,Goren
+vocab:gorvak of krach-ul,vocab,Gorvak of Krach-ul
 vocab:grace,vocab,Grace
 vocab:grace kinneon,vocab,Grace Kinneon
+vocab:gremze,vocab,Gremze
+vocab:gremze's squad,vocab,Gremze's Squad
+vocab:grummol hearthhand,vocab,Grummol Hearthhand
 vocab:guldrur,vocab,Guldrur
 vocab:hadar,vocab,Hadar
 vocab:halverin,vocab,Halverin
-vocab:halverin’s guard,vocab,Halverin’s Guard
+vocab:halverin's guard,vocab,Halverin's Guard
 vocab:hammer,vocab,Hammer
 vocab:hammer of ironfang,vocab,Hammer of Ironfang
 vocab:hand,vocab,Hand
 vocab:hands,vocab,Hands
+vocab:hands captain,vocab,Hands Captain
 vocab:hands of liamassa,vocab,Hands of Liamassa
+vocab:healer of the folly,vocab,Healer of the Folly
 vocab:henry,vocab,Henry
 vocab:henry sleepsong,vocab,Henry Sleepsong
+vocab:herbalist of wolfstream abbey,vocab,Herbalist of Wolfstream Abbey
+vocab:hermit of cliffborough,vocab,Hermit of Cliffborough
+vocab:high priest of airmid,vocab,High Priest of Airmid
+vocab:high priest of the orc nation,vocab,High Priest of the Orc Nation
 vocab:holly,vocab,Holly
+vocab:horrom,vocab,Horrom
+vocab:hospitaller of wolfstream abbey,vocab,Hospitaller of Wolfstream Abbey
+vocab:household of dhassa castle,vocab,Household of Dhassa Castle
+vocab:hrafn,vocab,Hrafn
 vocab:huana,vocab,Huana
+vocab:hugh calder,vocab,Hugh Calder
+vocab:huntsman of wolfstream abbey,vocab,Huntsman of Wolfstream Abbey
+vocab:huvorgha clan,vocab,Huvorgha Clan
 vocab:idolus,vocab,Idolus
 vocab:ilguz,vocab,Ilguz
+vocab:ilguz clan,vocab,Ilguz Clan
 vocab:iris,vocab,IRIS
+vocab:iron wolf trading company,vocab,Iron Wolf Trading Company
+vocab:ironfang,vocab,Ironfang
+vocab:ironfang builder,vocab,Ironfang Builder
+vocab:ironfang commander,vocab,Ironfang Commander
+vocab:ironfang miner,vocab,Ironfang Miner
 vocab:iwtc,vocab,IWTC
 vocab:jackals,vocab,Jackals
+vocab:jamfyr,vocab,Jamfyr
 vocab:jane,vocab,Jane
+vocab:jareth heartarm,vocab,Jareth Heartarm
+vocab:javan macinnis,vocab,Javan MacInnis
 vocab:jemmy,vocab,Jemmy
+vocab:jessie hobbs,vocab,Jessie Hobbs
+vocab:jonas fenwick,vocab,Jonas Fenwick
 vocab:joram,vocab,Joram
 vocab:joram macrorie,vocab,Joram MacRorie
+vocab:josiah,vocab,Josiah
 vocab:jotunheim,vocab,Jotunheim
 vocab:jotunheim peaks,vocab,Jotunheim Peaks
+vocab:kaci,vocab,Kaci
 vocab:kaedra,vocab,Kaedra
 vocab:kaitlyn,vocab,Kaitlyn
 vocab:kalina,vocab,Kalina
 vocab:kalina hitana,vocab,Kalina Hitana
 vocab:kama torchholder,vocab,Kama Torchholder
+vocab:kate,vocab,Kate
+vocab:katia,vocab,Katia
 vocab:katy,vocab,Katy
 vocab:kavar,vocab,Kavar
 vocab:kavar protis,vocab,Kavar Protis
+vocab:keeper of the krach-ul caves at crafthold,vocab,Keeper of the Krach-ul Caves at Crafthold
+vocab:kelrag,vocab,Kelrag
+vocab:kendel shamaris,vocab,Kendel Shamaris
 vocab:khagra warhammer,vocab,Khagra Warhammer
+vocab:kierton,vocab,Kierton
 vocab:killeth,vocab,Killeth
-vocab:king,vocab,King
+vocab:killeth silversmith,vocab,Killeth Silversmith
+vocab:killeth tannery,vocab,Killeth Tannery
+vocab:king of elulind,vocab,King of Elulind
 vocab:kingdom of elulind,vocab,Kingdom of Elulind
 vocab:kingdom of tolàn,vocab,Kingdom of Tolàn
 vocab:kir,vocab,Kir
 vocab:kir selaz,vocab,Kir Selaz
-vocab:kirchefyr temple,vocab,Kirchefyr Temple
 vocab:kluta,vocab,Kluta
 vocab:krach-ul,vocab,Krach-ul
+vocab:krach-ul animal handlers at crafthold,vocab,Krach-ul Animal Handlers at Crafthold
+vocab:krach-ul at crafthold,vocab,Krach-ul at Crafthold
+vocab:krach-ul captain at crafthold,vocab,Krach-ul Captain at Crafthold
+vocab:krach-ul cavekeepers at crafthold,vocab,Krach-ul Cavekeepers at Crafthold
+vocab:krach-ul clan,vocab,Krach-ul Clan
+vocab:krach-ul warchief at crafthold,vocab,Krach-ul Warchief at Crafthold
 vocab:kwalish,vocab,Kwalish
-vocab:lia,vocab,Lia
+vocab:lannji wildstone,vocab,Lannji Wildstone
+vocab:lead handler of the krach-ul at crafthold,vocab,Lead Handler of the Krach-ul at Crafthold
+vocab:lead of the folly,vocab,Lead of the Folly
+vocab:leader of airmid's remedy,vocab,Leader of Airmid's Remedy
+vocab:leader of cliffborough,vocab,Leader of Cliffborough
+vocab:leader of glimmerwell shrine,vocab,Leader of Glimmerwell Shrine
+vocab:leader of gremze's squad,vocab,Leader of Gremze's Squad
+vocab:leader of ronric's squad,vocab,Leader of Ronric's Squad
+vocab:leader of stonehome,vocab,Leader of Stonehome
+vocab:leader of todd's squad,vocab,Leader of Todd's Squad
+vocab:leader of vyssa's squad,vocab,Leader of Vyssa's Squad
+vocab:leader of ylola's scout squad,vocab,Leader of Ylola's Scout Squad
+vocab:leader of zanlen's scout squad,vocab,Leader of Zanlen's Scout Squad
 vocab:lia fabriana,vocab,Lia Fabriana
 vocab:lia whitewolf,vocab,Lia Whitewolf
 vocab:liacyne,vocab,Liacyne
 vocab:liacyne heseth,vocab,Liacyne Heseth
 vocab:liavarah,vocab,Liavarah
+vocab:lieutenant of the death ravens,vocab,Lieutenant of the Death Ravens
+vocab:lieutenant of the silver jackals,vocab,Lieutenant of the Silver Jackals
 vocab:light,vocab,Light
 vocab:light of ironfang,vocab,Light of Ironfang
 vocab:little bear,vocab,Little Bear
 vocab:loris,vocab,Loris
+vocab:lou,vocab,Lou
 vocab:luminia,vocab,Luminia
 vocab:macfeegle,vocab,MacFeegle
+vocab:mage of the folly,vocab,Mage of the Folly
 vocab:makhala,vocab,Makhala
+vocab:malou,vocab,Malou
+vocab:margot,vocab,Margot
+vocab:maribel holt,vocab,Maribel Holt
+vocab:marshal of elulind,vocab,Marshal of Elulind
+vocab:master zohra,vocab,Master Zohra
+vocab:mazorn blindscar,vocab,Mazorn Blindscar
 vocab:melba,vocab,Melba
 vocab:melba harland,vocab,Melba Harland
+vocab:mentir,vocab,Mentir
 vocab:mercy,vocab,Mercy
 vocab:mercy windriver,vocab,Mercy Windriver
+vocab:michaeline company commander,vocab,Michaeline Company Commander
 vocab:michaelines,vocab,Michaelines
+vocab:military of elulind,vocab,Military of Elulind
+vocab:mine,vocab,Mine
+vocab:miran,vocab,Miran
 vocab:modrons,vocab,Modrons
 vocab:monadh,vocab,Monadh
 vocab:monadh mor,vocab,Monadh Mor
 vocab:moon,vocab,Moon
+vocab:mornak,vocab,Mornak
+vocab:mother brigitte ware,vocab,Mother Brigitte Ware
 vocab:mowser,vocab,Mowser
-vocab:myconid,vocab,Myconid
+vocab:myconid colony,vocab,Myconid Colony
 vocab:myconids,vocab,Myconids
 vocab:nala,vocab,Nala
+vocab:nella dyer,vocab,Nella Dyer
 vocab:newberry,vocab,Newberry
-vocab:norris,vocab,Norris
+vocab:nolan,vocab,Nolan
 vocab:north bend fob,vocab,North Bend FOB
-vocab:party,vocab,Party
+vocab:obby,vocab,Obby
+vocab:olivia rios,vocab,Olivia Rios
+vocab:operations lead of the folly,vocab,Operations Lead of the Folly
+vocab:orc device maker,vocab,Orc Device Maker
+vocab:orc fire mage,vocab,Orc Fire Mage
+vocab:orc labor master,vocab,Orc Labor Master
+vocab:orc mining squad leader,vocab,Orc Mining Squad Leader
+vocab:orc nation,vocab,Orc Nation
+vocab:orc religion,vocab,Orc Religion
+vocab:orc tribal staff,vocab,Orc Tribal Staff
+vocab:order of st michael,vocab,Order of St Michael
+vocab:orgoth one-eye,vocab,Orgoth One-Eye
 vocab:pet,vocab,Pet
 vocab:phil,vocab,Phil
 vocab:piers,vocab,Piers
 vocab:piers ashton,vocab,Piers Ashton
 vocab:poppy,vocab,Poppy
 vocab:poppy everhold,vocab,Poppy Everhold
+vocab:powder monkey of the folly,vocab,Powder Monkey of the Folly
+vocab:professor of the elysian academy,vocab,Professor of the Elysian Academy
+vocab:quartermaster of the folly,vocab,Quartermaster of the Folly
+vocab:quave,vocab,Quave
+vocab:quinn,vocab,Quinn
+vocab:rami,vocab,Rami
+vocab:ranger commander,vocab,Ranger Commander
 vocab:rarmal,vocab,Rarmal
+vocab:rarmal garrison,vocab,Rarmal Garrison
 vocab:ravencrest,vocab,Ravencrest
+vocab:ravencrest merchant family,vocab,Ravencrest Merchant Family
+vocab:red fang,vocab,Red Fang
+vocab:red fang master,vocab,Red Fang Master
 vocab:remedy,vocab,Remedy
 vocab:remideboi,vocab,RemiDeBoi
 vocab:rhona,vocab,Rhona
@@ -1638,43 +2033,90 @@ vocab:rhys,vocab,Rhys
 vocab:rhys thuryn,vocab,Rhys Thuryn
 vocab:ricardo,vocab,Ricardo
 vocab:ricardo alcocer,vocab,Ricardo Alcocer
+vocab:river valley farm deputy,vocab,River Valley Farm Deputy
+vocab:river valley farm settlements,vocab,River Valley Farm Settlements
+vocab:river valley farm warden,vocab,River Valley Farm Warden
+"vocab:robart ""rob"" thayne",vocab,"Robart ""Rob"" Thayne"
+vocab:robbie,vocab,Robbie
+vocab:roland,vocab,Roland
 vocab:ronric,vocab,Ronric
+vocab:ronric's squad,vocab,Ronric's Squad
+vocab:sadie's leatherworking,vocab,Sadie's Leatherworking
+vocab:sailing master of the folly,vocab,Sailing Master of the Folly
 vocab:sala,vocab,Sala
 vocab:salaisha,vocab,Salaisha
 vocab:saphira,vocab,Saphira
 vocab:saphira celestia,vocab,Saphira Celestia
-vocab:scotty,vocab,Scotty
+vocab:sarai,vocab,Sarai
+vocab:sarga bonebraid,vocab,Sarga Bonebraid
+vocab:scott,vocab,Scott
+vocab:scout of the folly,vocab,Scout of the Folly
+vocab:sekani,vocab,Sekani
 vocab:selaz,vocab,Selaz
 vocab:selis caldwell,vocab,Selis Caldwell
+vocab:seneschal of dhassa castle,vocab,Seneschal of Dhassa Castle
+vocab:sens,vocab,Sens
 vocab:shadow of ironfang,vocab,Shadow of Ironfang
+vocab:shadow stone smuggler,vocab,Shadow Stone Smuggler
 vocab:shadowboy,vocab,Shadowboy
 vocab:shargaas,vocab,Shargaas
+vocab:shulhug,vocab,Shulhug
 vocab:shworn,vocab,Shworn
 vocab:shworn sleepsong,vocab,Shworn Sleepsong
+vocab:silver jackals,vocab,Silver Jackals
+vocab:silver jackals sergeant,vocab,Silver Jackals Sergeant
+vocab:sister frita,vocab,Sister Frita
+vocab:sister karsen,vocab,Sister Karsen
 vocab:sleepsong,vocab,Sleepsong
+vocab:sleepsong clan,vocab,Sleepsong Clan
+vocab:sniper of the folly,vocab,Sniper of the Folly
 vocab:soren,vocab,Soren
 vocab:spartan,vocab,Spartan
 vocab:spencer,vocab,Spencer
 vocab:spike,vocab,Spike
 vocab:spike of ironfang,vocab,Spike of Ironfang
-vocab:spire,vocab,Spire
+vocab:spymaster of elulind,vocab,Spymaster of Elulind
+vocab:spymaster of the death ravens,vocab,Spymaster of the Death Ravens
+vocab:stablemaster of wolfstream abbey,vocab,Stablemaster of Wolfstream Abbey
 vocab:stonehome,vocab,Stonehome
+vocab:striker of the folly,vocab,Striker of the Folly
+vocab:student of the elysian academy,vocab,Student of the Elysian Academy
+vocab:tandagh,vocab,Tandagh
 vocab:tanzo,vocab,Tanzo
 vocab:tawyn,vocab,Tawyn
+vocab:taylor,vocab,Taylor
+vocab:taylor ochoa,vocab,Taylor Ochoa
+vocab:temple of airmid,vocab,Temple of Airmid
 vocab:terry,vocab,Terry
+vocab:thalia ravencrest,vocab,Thalia Ravencrest
+vocab:the folly,vocab,The Folly
+vocab:the silver string,vocab,The Silver String
+vocab:the spencer heir,vocab,The Spencer Heir
 vocab:thieves guild,vocab,Thieves Guild
 vocab:thonatmo,vocab,Thonatmo
+vocab:thraga,vocab,Thraga
 vocab:thurway,vocab,Thurway
+vocab:thurway candlemaker,vocab,Thurway Candlemaker
 vocab:tiber,vocab,Tiber
 vocab:tiber nox,vocab,Tiber Nox
+vocab:tinker of the folly,vocab,Tinker of the Folly
 vocab:todd,vocab,Todd
+vocab:todd's squad,vocab,Todd's Squad
 vocab:tolan,vocab,Tolan
 vocab:tolanite,vocab,Tolanite
+vocab:tolanite breakaway,vocab,Tolanite Breakaway
 vocab:tolanites,vocab,Tolanites
+vocab:tolàn court,vocab,Tolàn Court
+vocab:tolàn healer,vocab,Tolàn Healer
+vocab:tolàn healers' guild,vocab,Tolàn Healers' Guild
+vocab:tolàn master healer,vocab,Tolàn Master Healer
+vocab:tolàn scholar,vocab,Tolàn Scholar
 vocab:torchholder,vocab,Torchholder
 vocab:torenth,vocab,Torenth
 vocab:touya,vocab,Touya
 vocab:touya akira,vocab,Touya Akira
+vocab:towne,vocab,Towne
+vocab:tozhug,vocab,Tozhug
 vocab:trollhills,vocab,Trollhills
 vocab:tyson crossing,vocab,Tyson Crossing
 vocab:unala,vocab,Unala
@@ -1683,15 +2125,34 @@ vocab:unala's glory,vocab,Unala's Glory
 vocab:ungagh,vocab,Ungagh
 vocab:ungagh bloodaxe,vocab,Ungagh Bloodaxe
 vocab:urgulk,vocab,Urgulk
+vocab:urla,vocab,Urla
+vocab:urmrig,vocab,Urmrig
 vocab:varah,vocab,Varah
+vocab:varkha red-tusks,vocab,Varkha Red-Tusks
+vocab:velka ironstitch,vocab,Velka Ironstitch
+vocab:venfi,vocab,Venfi
 vocab:venric,vocab,Venric
 vocab:victor,vocab,Victor
 vocab:victor d evernight,vocab,Victor D Evernight
 vocab:vixiecake,vocab,VixieCake
 vocab:vyssa,vocab,Vyssa
+vocab:vyssa's squad,vocab,Vyssa's Squad
 vocab:warhammer,vocab,Warhammer
+vocab:warin de grey,vocab,Warin de Grey
+vocab:warlord of rarmal,vocab,Warlord of Rarmal
+vocab:warlord of the orc nation,vocab,Warlord of the Orc Nation
+vocab:weapons master of elulind,vocab,Weapons Master of Elulind
+vocab:weaver of wolfstream abbey,vocab,Weaver of Wolfstream Abbey
+vocab:william sleepsong,vocab,William Sleepsong
+vocab:wogharod,vocab,Wogharod
+vocab:wolf clan,vocab,Wolf Clan
+vocab:wolf clan alpha,vocab,Wolf Clan Alpha
 vocab:wolfstream,vocab,Wolfstream
 vocab:wolfstream abbey,vocab,Wolfstream Abbey
 vocab:wolfstream village,vocab,Wolfstream Village
+vocab:ylola toggleblock,vocab,Ylola Toggleblock
+vocab:ylola's scout squad,vocab,Ylola's Scout Squad
+vocab:zanlen broadstitch,vocab,Zanlen Broadstitch
+vocab:zanlen's scout squad,vocab,Zanlen's Scout Squad
 vocab:zedna,vocab,Zedna
 vocab:zedna hresvelg,vocab,Zedna Hresvelg

@@ -1,109 +1,300 @@
 node_id,node_type,label
-artifact_folly,artifact,Albrun's Folly
-artifact_glory,artifact,Unala's Glory
-artifact_iris,artifact,IRIS
-creat_Ash,creat,Ash
-creat_berry,creat,Berry
-creat_huana,creat,Huana
-creat_little_bear,creat,Little Bear
-creat_mine,creat,Mine
-creat_pet,creat,Pet
-faction_burzath,faction,Burzath
-faction_foreclaimers,faction,Foreclaimers
-faction_halverin,faction,Halverin’s Guard
-faction_hands,faction,Hands of Liamassa
-faction_ilguz,faction,Ilguz
-faction_jackals,faction,Jackals
-faction_krach-ul,faction,Krach-ul
-faction_michaeline,faction,Michaelines
-faction_modrons,faction,Modrons
-faction_remedy,faction,Arimid’s Remedy
-faction_sleepsong,faction,Sleepsong
-faction_spencer,faction,Spencer
-faction_thieves_guild,faction,Thieves Guild
-faction_tolanites,faction,Tolanites
-org_academy,org,Elysia Academy
-org_arcana,org,Arcana
-org_iwtc,org,IWTC
-org_king,org,King
-org_kirchefyre,org,Kirchefyr Temple
-org_myconids,org,Myconids
+art_folly,art,The Folly
+factn_burzath,factn,Burzath Clan
+factn_dakgorim,factn,Dakgorim Warband
+factn_huvorgha,factn,Huvorgha Clan
+factn_ilguz,factn,Ilguz Clan
+factn_krach-ul,factn,Krach-ul Clan
+factn_tolan_breakaway,factn,Tolanite Breakaway
+factn_wolf_clan,factn,Wolf Clan
+loc_brechin,loc,Brechin
+loc_crafthold,loc,Crafthold
+loc_dhassa,loc,Dhassa
+loc_druwen,loc,Duchy of Druwen
+loc_killeth,loc,Killeth
+loc_monadh_mor,loc,Monadh Mor
+loc_sadies_leatherworking,loc,Sadie's Leatherworking
+loc_silversmith_killeth,loc,Killeth Silversmith
+loc_string,loc,The Silver String
+loc_thurway,loc,Thurway
+off_dpty_cavekeepers,off,Deputy Cave Keeper
+off_dpty_folly,off,Deputy of the Folly
+off_dpty_jackals,off,Lieutenant of the Silver Jackals
+off_dpty_krach-ul,off,Krach-ul Captain at Crafthold
+off_dpty_ravens,off,Lieutenant of the Death Ravens
+off_dpty_river_valley_farms,off,River Valley Farm Deputy
+off_lead_ch_farm,off,Crafthold Reeve
+off_lead_ch_forge,off,Crafthold Forgemaster
+off_lead_ch_greenhouse,off,Crafthold Master Gardener
+off_lead_ch_guests,off,Crafthold Hospitaller
+off_lead_ch_square,off,Crafthold Market Warden
+off_lead_ch_stables,off,Crafthold Stablemaster
+off_lead_ch_warehouse,off,Crafthold Quartermaster
+off_lead_chancery,off,Chancellor of Elulind
+off_lead_cliffborough,off,Leader of Cliffborough
+off_lead_crafthold,off,Crafthold Counselor
+off_lead_diamond,off,Spymaster of Elulind
+off_lead_druwen,off,Duke of Druwen
+off_lead_elulind,off,King of Elulind
+off_lead_folly,off,Lead of the Folly
+off_lead_glimmerwell,off,Leader of Glimmerwell Shrine
+off_lead_hands,off,Hands Captain
+off_lead_hands_squad_ronric,off,Leader of Ronric's Squad
+off_lead_hands_squad_todd,off,Leader of Todd's Squad
+off_lead_hands_squad_vyssa,off,Leader of Vyssa's Squad
+off_lead_ironfang,off,Ironfang Commander
+off_lead_jackals,off,Captain of the Silver Jackals
+off_lead_krach-ul,off,Krach-ul Warchief at Crafthold
+off_lead_krach-ul_cavekeepers,off,Keeper of the Krach-ul Caves at Crafthold
+off_lead_krach-ul_handlers,off,Lead Handler of the Krach-ul at Crafthold
+off_lead_michaeline_joram,off,Michaeline Company Commander
+off_lead_military,off,Marshal of Elulind
+off_lead_orc_religion,off,High Priest of the Orc Nation
+off_lead_orcs,off,Warlord of the Orc Nation
+off_lead_palace_guard,off,Captain of the Palace Guard
+off_lead_rangers,off,Ranger Commander
+off_lead_rarmal,off,Warlord of Rarmal
+off_lead_ravens,off,Captain of the Death Ravens
+off_lead_red_fang_squad_gremze,off,Leader of Gremze's Squad
+off_lead_river_valley_farms,off,River Valley Farm Warden
+off_lead_royal_house,off,Seneschal of Dhassa Castle
+off_lead_sleepsong,off,Clan Matriarch
+off_lead_stonehome,off,Leader of Stonehome
+off_lead_stonehome_squad_ylola,off,Leader of Ylola's Scout Squad
+off_lead_stonehome_squad_zanlen,off,Leader of Zanlen's Scout Squad
+off_lead_temple_airmid,off,High Priest of Airmid
+off_lead_tolan_healers,off,Tolàn Master Healer
+off_lead_wolf,off,Wolf Clan Alpha
+off_lead_wolfstream,off,Abbess of Wolfstream Abbey
+off_lead_wolfstream_hospitaller,off,Hospitaller of Wolfstream Abbey
+off_lead_wolfstream_stables,off,Stablemaster of Wolfstream Abbey
+off_ops_druwen_field_marshal,off,Field Marshal of Druwen
+off_ops_folly,off,Operations Lead of the Folly
+off_ops_ravens_spymaster,off,Spymaster of the Death Ravens
+off_ops_wolfstream_blacksmith,off,Blacksmith of Wolfstream Abbey
+off_ops_wolfstream_cellarer,off,Cellarer of Wolfstream Abbey
+off_ops_wolfstream_herbalist,off,Herbalist of Wolfstream Abbey
+off_ops_wolfstream_hunters,off,Huntsman of Wolfstream Abbey
+off_ops_wolfstream_weaver,off,Weaver of Wolfstream Abbey
+off_weapons_master,off,Weapons Master of Elulind
+org_academy_elysia,org,Elysian Academy
+org_cavekeepers,org,Cave Keepers
+org_ch_farm,org,Crafthold Home Farm
+org_ch_forge,org,Crafthold Forge
+org_ch_greenhouse,org,Crafthold Greenhouse
+org_ch_guests,org,Crafthold Guest House
+org_ch_hall,org,Crafthold Main Hall
+org_ch_residents,org,Crafthold Residences
+org_ch_square,org,Crafthold Town Square
+org_ch_stables,org,Crafthold Stables
+org_ch_warehouse,org,Crafthold Warehouse and Supply
+org_chancery,org,Chancery of Elulind
+org_cliffborough,org,Cliffborough
+org_crafthold,org,Crafthold Community
+org_dhassa_house,org,Household of Dhassa Castle
+org_diamond,org,Black Diamond
+org_druwen,org,Duchy of Druwen
+org_elulind,org,Court of Elulind
+org_folly,org,Albrun's Folly
+org_glimmerwell,org,Glimmerwell Shrine
+org_hands,org,Hands of Liamassa
+org_hands_squad_ronric,org,Ronric's Squad
+org_hands_squad_todd,org,Todd's Squad
+org_hands_squad_vyssa,org,Vyssa's Squad
+org_ironfang,org,Ironfang
+org_iwtc,org,Iron Wolf Trading Company
+org_jackals,org,Silver Jackals
+org_krach-ul,org,Krach-ul at Crafthold
+org_krach-ul_cavekeepers,org,Krach-ul Cavekeepers at Crafthold
+org_krach-ul_handlers,org,Krach-ul Animal Handlers at Crafthold
+org_michaeline,org,Order of St Michael
+org_military,org,Military of Elulind
+org_orc_religion,org,Orc Religion
 org_orcs,org,Orc Nation
-org_party,org,Party
-org_ravencrest,org,Ravencrest
-org_spire,org,Spire
-person_alivyre,person,Alivyre Dawntracker
-person_aniya,person,Aniya Laccion
-person_anthony,person,Anthony Haldane
-person_avarna,person,Avarna
-person_azaar,person,Azaar
-person_bear,person,Bear
-person_braydon,person,Braydon
-person_bre,person,Breanna Arch
-person_caldwell,person,Selis Caldwell
-person_cara,person,Cara Windsoul
-person_clara,person,Clara
-person_credus,person,Credus
-person_cullen,person,Alister Cullen
-person_cunai,person,Cunai la Diara
-person_cursin,person,Cursin Helmaid
-person_dakgorim,person,Dakgorim
-person_darren,person,Darren Moore
-person_drib,person,Drib Gnoss
-person_elaris,person,Elaris Thorne
-person_emily,person,Emily Ashton
-person_evaine,person,Evaine MacRorie Thuryn
-person_faeryne,person,Faeryne
-person_fulbert,person,Fulbert Highwell
-person_garrick,person,Garrick
-person_gina,person,Gina
-person_henry,person,Henry Sleepsong
-person_holly,person,Holly
-person_idolus,person,Idolus
-person_jane,person,Jane
-person_joram,person,Joram MacRorie
-person_katy,person,Katy
-person_kavar,person,Kavar Protis
-person_kir,person,Kir Selaz
-person_liacyne,person,Liacyne Heseth
-person_liavarah,person,Liavarah
-person_loris,person,Edmund Loris
-person_luminia,person,Luminia
-person_makhala,person,Makhala
-person_mercy,person,Mercy Windriver
-person_mowser,person,Mowser
-person_newberry,person,Evan Newberry
-person_piers,person,Piers Ashton
-person_rhys,person,Rhys Thuryn
-person_ricardo,person,Ricardo Alcocer
-person_ronric,person,Ronric
-person_sala,person,Salaisha
-person_saphira,person,Saphira Celestia
-person_shworn,person,Shworn Sleepsong
-person_tanzo,person,Tanzo
-person_terry,person,Terry
-person_tiber,person,Tiber Nox
-person_todd,person,Todd
-person_torchholder,person,Kama Torchholder
-person_touya,person,Touya Akira
-person_unala,person,Unala Vortoise
-person_urgulk,person,Urgulk
-person_victor,person,Victor D Evernight
-person_vyssa,person,Vyssa
-person_warhammer,person,Khagra Warhammer
-person_zedna,person,Zedna Hresvelg
-place_blackburn,place,Blackburn
-place_blackwood,place,Blackwood
-place_brightfields,place,Brightfields
-place_crafthold,place,Crafthold
-place_dhassa,place,Dhassa
-place_elulind,place,Kingdom of Elulind
-place_elysia,place,Elysia
-place_guldrur,place,Guldrur
-place_killeth,place,Killeth
-place_northbend,place,North Bend FOB
-place_stonehome,place,Stonehome
-place_thurway,place,Thurway
-place_tolan,place,Kingdom of Tolàn
-place_torenth,place,Torenth
-place_wolfstream,place,Wolfstream Village
+org_rangers,org,Elulind Ranger Corp
+org_rarmal,org,Rarmal Garrison
+org_ravencrest,org,Ravencrest Merchant Family
+org_ravens,org,Death Ravens
+org_red_fang,org,Red Fang
+org_red_fang_squad_gremze,org,Gremze's Squad
+org_remedy,org,Airmid's Remedy
+org_river_valley_farms,org,River Valley Farm Settlements
+org_sleepsong,org,Sleepsong Clan
+org_stonehome,org,Stonehome
+org_stonehome_squad_ylola,org,Ylola's Scout Squad
+org_stonehome_squad_zanlen,org,Zanlen's Scout Squad
+org_temple_airmid,org,Temple of Airmid
+org_thieves,org,Thieves Guild
+org_tolan,org,Tolàn Court
+org_tolan_healers,org,Tolàn Healers' Guild
+pers_addy,pers,Addy
+pers_alina,pers,Alina
+pers_alivyre,pers,Alivyre Dawntracker
+pers_andrei,pers,Andrei
+pers_aniya,pers,Aniya Laccion
+pers_anthony,pers,Anthony Haldane
+pers_aren,pers,Aren
+pers_aurdac_cefthed,pers,Aurdac Cefthed
+pers_avarna,pers,Avarna
+pers_azaar,pers,Azaar
+pers_bella,pers,Bella
+pers_beni,pers,Beni Tinkerlaugh
+pers_bill,pers,Bill not-Sleepsong
+pers_bixley,pers,Bixley
+pers_braydon,pers,Braydon
+pers_bre,pers,Breanna Arch
+pers_brigitte_ware,pers,Mother Brigitte Ware
+pers_caldwell,pers,Selis Caldwell
+pers_cara,pers,Cara Windsoul
+pers_catrin_woodwell,pers,Catrin Woodwell
+pers_charlie,pers,Charlie
+pers_clara,pers,Clara
+pers_claw,pers,Claw of Ironfang
+pers_connor,pers,Connor
+pers_cullen,pers,Alister Cullen
+pers_cunai,pers,Cunai la Diara
+pers_darren,pers,Darren Moore
+pers_david_bowie,pers,David Bowie
+pers_david_herder,pers,David Herder
+pers_dorgath_stoneeye,pers,Dorgath Stone-Eye
+pers_draug,pers,Draug
+pers_druven,pers,Druven
+pers_eardwulf,pers,Eardwulf Harland
+pers_ebele,pers,Ebele
+pers_edda,pers,Edda MacInnis
+pers_edric_tanner,pers,Edric Tanner
+pers_eghad,pers,Eghad
+pers_eira,pers,Eira Sleepsong
+pers_elaris,pers,Elaris Thorne
+pers_emily,pers,Emily Ashton
+pers_emlin,pers,Emlin Fuzzyneedle
+pers_evaine,pers,Evaine MacRorie Thuryn
+pers_faeryne,pers,Faeryne
+pers_fenrir,pers,Fenrir
+pers_frita,pers,Sister Frita
+pers_fritz,pers,Fritz
+pers_garrick,pers,Garrick
+pers_george,pers,George
+pers_getkleblish,pers,Getkleblish Shorttwist
+pers_gina,pers,Gina
+pers_goren,pers,Goren
+pers_gorvak_krachul,pers,Gorvak of Krach-ul
+pers_grace,pers,Grace Kinneon
+pers_gremze,pers,Gremze
+pers_grummol_hearthhand,pers,Grummol Hearthhand
+pers_hammer,pers,Hammer of Ironfang
+pers_harold,pers,Brother Harold
+pers_henry,pers,Henry Sleepsong
+pers_holly,pers,Holly
+pers_horrom,pers,Horrom
+pers_hrafn,pers,Hrafn
+pers_hugh_calder,pers,Hugh Calder
+pers_jamfyr,pers,Jamfyr
+pers_jane,pers,Jane
+pers_jareth_heartarm,pers,Jareth Heartarm
+pers_javan,pers,Javan MacInnis
+pers_jemmy,pers,Jemmy
+pers_jessie_hobbs,pers,Jessie Hobbs
+pers_jonas_fenwick,pers,Jonas Fenwick
+pers_joram,pers,Joram MacRorie
+pers_josiah,pers,Josiah
+pers_kaedra,pers,Kaedra
+pers_kaitlyn,pers,Kaitlyn
+pers_karsen,pers,Sister Karsen
+pers_kate,pers,Kate
+pers_katia,pers,Katia
+pers_katy,pers,Katy
+pers_kelrag,pers,Kelrag
+pers_kendel,pers,Kendel Shamaris
+pers_khagra_warhammer,pers,Khagra Warhammer
+pers_kierton,pers,Kierton
+pers_lannji,pers,Lannji Wildstone
+pers_lia,pers,Lia Fabriana
+pers_liacyne,pers,Liacyne Heseth
+pers_liavarah,pers,Liavarah
+pers_light,pers,Light of Ironfang
+pers_loris,pers,Edmund Loris
+pers_malou,pers,Malou
+pers_maribel_holt,pers,Maribel Holt
+pers_mazorn_blindscar,pers,Mazorn Blindscar
+pers_melba,pers,Melba Harland
+pers_mercy,pers,Mercy Windriver
+pers_mornak,pers,Mornak
+pers_mowser,pers,Mowser
+pers_nala,pers,Nala
+pers_nella_dyer,pers,Nella Dyer
+pers_newberry,pers,Evan Newberry
+pers_nolan,pers,Nolan
+pers_norris,pers,Brother Norris
+pers_obby,pers,Obby
+pers_olivia_rios,pers,Olivia Rios
+pers_orgoth_one_eye,pers,Orgoth One-Eye
+pers_piers,pers,Piers Ashton
+pers_poppy,pers,Poppy Everhold
+pers_quave,pers,Quave
+pers_quinn,pers,Quinn
+pers_rami,pers,Rami
+pers_rhona,pers,Rhona
+pers_rhys,pers,Rhys Thuryn
+pers_robart_thayne,pers,"Robart ""Rob"" Thayne"
+pers_robbie,pers,Robbie
+pers_roland,pers,Roland
+pers_ronric,pers,Ronric
+pers_sala,pers,Salaisha
+pers_saphira,pers,Saphira Celestia
+pers_sarai,pers,Sarai
+pers_sarga_bonebraid,pers,Sarga Bonebraid
+pers_sekani,pers,Sekani
+pers_sens,pers,Sens
+pers_shadow,pers,Shadow of Ironfang
+pers_shworn,pers,Shworn Sleepsong
+pers_soren,pers,Soren
+pers_spike,pers,Spike of Ironfang
+pers_tanzo,pers,Tanzo
+pers_tawyn,pers,Tawyn
+pers_taylor,pers,Taylor
+pers_taylor_ochoa,pers,Taylor Ochoa
+pers_thalia,pers,Thalia Ravencrest
+pers_thraga,pers,Thraga
+pers_todd,pers,Todd
+pers_torchholder,pers,Kama Torchholder
+pers_towne,pers,Towne
+pers_unala,pers,Unala Vortoise
+pers_ungagh_bloodaxe,pers,Ungagh Bloodaxe
+pers_urgulk,pers,Urgulk
+pers_urla,pers,Urla
+pers_urmrig,pers,Urmrig
+pers_varkha_redtusks,pers,Varkha Red-Tusks
+pers_velka_ironstitch,pers,Velka Ironstitch
+pers_venfi,pers,Venfi
+pers_victor,pers,Victor D Evernight
+pers_vyssa,pers,Vyssa
+pers_william,pers,William Sleepsong
+pers_ylola,pers,Ylola Toggleblock
+pers_zanlen,pers,Zanlen Broadstitch
+pers_zohra,pers,Master Zohra
+role_adm_academy_professor,role,Professor of the Elysian Academy
+role_adm_academy_student,role,Student of the Elysian Academy
+role_adm_tolan_scholar,role,Tolàn Scholar
+role_arc_folly_mage,role,Mage of the Folly
+role_arc_tolan_healer,role,Tolàn Healer
+role_cmb_folly_fighter,role,Fighter of the Folly
+role_cmb_folly_striker,role,Striker of the Folly
+role_cmb_ironfang_builder,role,Ironfang Builder
+role_cmb_ironfang_miner,role,Ironfang Miner
+role_craft_ch_hall_brewer,role,Crafthold Brewer
+role_craft_folly_carpenter,role,Carpenter of the Folly
+role_craft_folly_tinker,role,Tinker of the Folly
+role_eng_folly_sailing_master,role,Sailing Master of the Folly
+role_logis_folly_quartermaster,role,Quartermaster of the Folly
+role_med_folly_healer,role,Healer of the Folly
+role_ops_ch_stables_breeder,role,Crafthold Breeder
+role_ops_ch_stables_teamster,role,Crafthold Teamster
+role_ops_cliffborough_hermit,role,Hermit of Cliffborough
+role_ops_folly_cabin_boy,role,Cabin Boy of the Folly
+role_ops_folly_powder_monkey,role,Powder Monkey of the Folly
+role_ops_jackals_sergeant,role,Silver Jackals Sergeant
+role_ops_orc_mining_squadleader,role,Orc Mining Squad Leader
+role_recon_ch_stables_hunter,role,Crafthold Hunter
+role_recon_folly_scout,role,Scout of the Folly
+role_rng_folly_sniper,role,Sniper of the Folly
