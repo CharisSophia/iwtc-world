@@ -1,6 +1,7 @@
 subject_id,predicate,object_id,subject_type,object_type,pair_type,symmetric,relationship_class
 org_michaeline,allied_with,org_remedy,org,org,org|org,True,political
 org_tolan_healers,allied_with,org_temple_airmid,org,org,org|org,True,political
+pers_kavar,allied_with,pers_henry,pers,pers,pers|pers,True,political
 org_temple_airmid,attempted_exorcism_on,pers_victor,org,pers,org|pers,False,event
 loc_string,based_at,loc_dhassa,loc,loc,loc|loc,False,location
 org_folly,based_at,loc_crafthold,org,loc,org|loc,False,location
@@ -8,6 +9,7 @@ org_jackals,based_at,loc_monadh_mor,org,loc,org|loc,False,location
 org_ravens,based_at,loc_monadh_mor,org,loc,org|loc,False,location
 pers_bill,based_at,loc_dhassa,pers,loc,pers|loc,False,location
 art_folly,belongs_to,org_folly,art,org,art|org,False,ownership
+creat_little_bear,belongs_to,pers_alivyre,creat,pers,creat|pers,False,ownership
 loc_string,belongs_to,org_sleepsong,loc,org,loc|org,False,ownership
 factn_burzath,current_member_of,org_orcs,factn,org,factn|org,False,membership
 factn_huvorgha,current_member_of,org_orcs,factn,org,factn|org,False,membership
@@ -95,6 +97,7 @@ pers_kaitlyn,current_member_of,role_craft_ch_hall_brewer,pers,role,pers|role,Fal
 pers_kate,current_member_of,role_arc_folly_mage,pers,role,pers|role,False,membership
 pers_katia,current_member_of,role_rng_folly_sniper,pers,role,pers|role,False,membership
 pers_katy,current_member_of,org_ch_residents,pers,org,pers|org,False,membership
+pers_kavar,current_member_of,org_diamond,pers,org,pers|org,False,membership
 pers_kelrag,current_member_of,org_krach-ul_handlers,pers,org,pers|org,False,membership
 pers_kendel,current_member_of,role_ops_cliffborough_hermit,pers,role,pers|role,False,membership
 pers_kierton,current_member_of,role_recon_folly_scout,pers,role,pers|role,False,membership
@@ -109,6 +112,7 @@ pers_mowser,current_member_of,org_ch_residents,pers,org,pers|org,False,membershi
 pers_nala,current_member_of,role_cmb_folly_fighter,pers,role,pers|role,False,membership
 pers_nella_dyer,current_member_of,org_ch_warehouse,pers,org,pers|org,False,membership
 pers_obby,current_member_of,role_ops_folly_cabin_boy,pers,role,pers|role,False,membership
+pers_piers,current_member_of,org_remedy,pers,org,pers|org,False,membership
 pers_poppy,current_member_of,org_ch_hall,pers,org,pers|org,False,membership
 pers_quave,current_member_of,role_cmb_folly_fighter,pers,role,pers|role,False,membership
 pers_quinn,current_member_of,role_ops_folly_powder_monkey,pers,role,pers|role,False,membership
@@ -125,7 +129,6 @@ pers_sarai,current_member_of,org_ch_greenhouse,pers,org,pers|org,False,membershi
 pers_sarga_bonebraid,current_member_of,org_krach-ul_cavekeepers,pers,org,pers|org,False,membership
 pers_sens,current_member_of,role_eng_folly_sailing_master,pers,role,pers|role,False,membership
 pers_shadow,current_member_of,role_cmb_ironfang_miner,pers,role,pers|role,False,membership
-pers_shworn,current_member_of,org_sleepsong,pers,org,pers|org,False,membership
 pers_soren,current_member_of,role_ops_ch_stables_teamster,pers,role,pers|role,False,membership
 pers_spike,current_member_of,role_cmb_ironfang_builder,pers,role,pers|role,False,membership
 pers_tawyn,current_member_of,role_craft_folly_tinker,pers,role,pers|role,False,membership
@@ -219,9 +222,11 @@ pers_norris,holds_office,off_lead_ch_guests,pers,off,pers|off,False,organization
 pers_olivia_rios,holds_office,off_ops_ravens_spymaster,pers,off,pers|off,False,organizational
 pers_orgoth_one_eye,holds_office,off_lead_orc_religion,pers,off,pers|off,False,organizational
 pers_rhys,holds_office,off_lead_tolan_healers,pers,off,pers|off,False,organizational
+pers_ricardo,holds_office,off_lead_remedy,pers,off,pers|off,False,organizational
 pers_ronric,holds_office,off_lead_hands_squad_ronric,pers,off,pers|off,False,organizational
 pers_sarga_bonebraid,holds_office,off_lead_krach-ul_cavekeepers,pers,off,pers|off,False,organizational
 pers_sekani,holds_office,off_dpty_folly,pers,off,pers|off,False,organizational
+pers_shworn,holds_office,off_ops_sleepsong_enforcer,pers,off,pers|off,False,organizational
 pers_tanzo,holds_office,off_lead_ironfang,pers,off,pers|off,False,organizational
 pers_taylor_ochoa,holds_office,off_dpty_jackals,pers,off,pers|off,False,organizational
 pers_thalia,holds_office,off_lead_wolf,pers,off,pers|off,False,organizational
@@ -233,6 +238,7 @@ pers_vyssa,holds_office,off_lead_hands_squad_vyssa,pers,off,pers|off,False,organ
 pers_ylola,holds_office,off_lead_stonehome_squad_ylola,pers,off,pers|off,False,organizational
 pers_zanlen,holds_office,off_lead_stonehome_squad_zanlen,pers,off,pers|off,False,organizational
 pers_zohra,holds_office,off_weapons_master,pers,off,pers|off,False,organizational
+pers_kavar,investigating,org_ravencrest,pers,org,pers|org,False,activity
 off_dpty_cavekeepers,leader_of,org_cavekeepers,off,org,off|org,False,leadership
 off_lead_ch_farm,leader_of,org_ch_farm,off,org,off|org,False,leadership
 off_lead_ch_forge,leader_of,org_ch_forge,off,org,off|org,False,leadership
@@ -265,6 +271,7 @@ off_lead_rangers,leader_of,org_rangers,off,org,off|org,False,leadership
 off_lead_rarmal,leader_of,org_rarmal,off,org,off|org,False,leadership
 off_lead_ravens,leader_of,org_ravens,off,org,off|org,False,leadership
 off_lead_red_fang_squad_gremze,leader_of,org_red_fang_squad_gremze,off,org,off|org,False,leadership
+off_lead_remedy,leader_of,org_remedy,off,org,off|org,False,leadership
 off_lead_river_valley_farms,leader_of,org_river_valley_farms,off,org,off|org,False,leadership
 off_lead_royal_house,leader_of,org_dhassa_house,off,org,off|org,False,leadership
 off_lead_sleepsong,leader_of,org_sleepsong,off,org,off|org,False,leadership
@@ -291,10 +298,12 @@ off_dpty_ravens,reports_to,off_lead_ravens,off,off,off|off,False,organizational
 off_dpty_river_valley_farms,reports_to,off_lead_river_valley_farms,off,off,off|off,False,organizational
 off_lead_palace_guard,reports_to,off_lead_military,off,off,off|off,False,organizational
 off_lead_rangers,reports_to,off_lead_military,off,off,off|off,False,organizational
+off_lead_remedy,reports_to,off_lead_temple_airmid,off,off,off|off,False,organizational
 off_lead_sleepsong,reports_to,pers_anthony,off,pers,off|pers,False,organizational
 off_lead_tolan_healers,reports_to,off_lead_temple_airmid,off,off,off|off,False,organizational
 off_ops_folly,reports_to,off_lead_folly,off,off,off|off,False,organizational
 off_ops_ravens_spymaster,reports_to,off_lead_ravens,off,off,off|off,False,organizational
+off_ops_sleepsong_enforcer,reports_to,off_lead_sleepsong,off,off,off|off,False,organizational
 off_weapons_master,reports_to,off_lead_palace_guard,off,off,off|off,False,organizational
 role_ops_orc_mining_squadleader,reports_to,factn_krach-ul,role,factn,role|factn,False,organizational
 org_sleepsong,rival_of,org_diamond,org,org,org|org,True,political

@@ -1,5 +1,6 @@
 node_id,node_type,label
 art_folly,art,The Folly
+creat_little_bear,creat,Little Bear
 factn_burzath,factn,Burzath Clan
 factn_dakgorim,factn,Dakgorim Warband
 factn_huvorgha,factn,Huvorgha Clan
@@ -56,6 +57,7 @@ off_lead_rangers,off,Ranger Commander
 off_lead_rarmal,off,Warlord of Rarmal
 off_lead_ravens,off,Captain of the Death Ravens
 off_lead_red_fang_squad_gremze,off,Leader of Gremze's Squad
+off_lead_remedy,off,Leader of Airmid's Remedy
 off_lead_river_valley_farms,off,River Valley Farm Warden
 off_lead_royal_house,off,Seneschal of Dhassa Castle
 off_lead_sleepsong,off,Clan Matriarch
@@ -71,6 +73,7 @@ off_lead_wolfstream_stables,off,Stablemaster of Wolfstream Abbey
 off_ops_druwen_field_marshal,off,Field Marshal of Druwen
 off_ops_folly,off,Operations Lead of the Folly
 off_ops_ravens_spymaster,off,Spymaster of the Death Ravens
+off_ops_sleepsong_enforcer,off,Sleepsong Enforcer
 off_ops_wolfstream_blacksmith,off,Blacksmith of Wolfstream Abbey
 off_ops_wolfstream_cellarer,off,Cellarer of Wolfstream Abbey
 off_ops_wolfstream_herbalist,off,Herbalist of Wolfstream Abbey
@@ -204,6 +207,7 @@ pers_karsen,pers,Sister Karsen
 pers_kate,pers,Kate
 pers_katia,pers,Katia
 pers_katy,pers,Katy
+pers_kavar,pers,Kavar Protis
 pers_kelrag,pers,Kelrag
 pers_kendel,pers,Kendel Shamaris
 pers_khagra_warhammer,pers,Khagra Warhammer
@@ -236,6 +240,7 @@ pers_quinn,pers,Quinn
 pers_rami,pers,Rami
 pers_rhona,pers,Rhona
 pers_rhys,pers,Rhys Thuryn
+pers_ricardo,pers,Ricardo Alcocer
 pers_robart_thayne,pers,"Robart ""Rob"" Thayne"
 pers_robbie,pers,Robbie
 pers_roland,pers,Roland
