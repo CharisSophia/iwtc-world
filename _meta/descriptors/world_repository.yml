@@ -55,8 +55,8 @@ sources:
     - _local/recollections
 
   resolution:
-    author_aliases:        _meta/indexes/vocab_author_aliases.csv
-    player_character_map:  _meta/indexes/vocab_map_player_character.csv
+    author_aliases:        _meta/indexes/resolve_author_aliases.csv
+    player_character_map:  _meta/indexes/resolve_map_player_character.csv
 
 working_drafts:
   # Location for machine-generated working drafts.
