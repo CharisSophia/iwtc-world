@@ -8,7 +8,6 @@ Arthur,pers_arthur,exact
 Beni,pers_beni,exact
 Bloodaxe,pers_ungagh_bloodaxe,exact
 Ungagh,pers_ungagh_bloodaxe,exact
-Braydon,pers_braydon,exact
 Bre,pers_bre,exact
 Brigitte,pers_brigitte_ware,exact
 Caldwell,pers_caldwell,exact
@@ -28,7 +27,6 @@ Elias,pers_elias,exact
 Emily,pers_emily,exact
 Evaine,pers_evaine,exact
 Fulbert,pers_fulbert,exact
-Gina,pers_gina,exact
 Grace,pers_grace,exact
 Hammer,pers_hammer,exact
 Henry,pers_henry,exact
@@ -42,9 +40,7 @@ Light,pers_light,exact
 Loris,pers_loris,exact
 Melba,pers_melba,exact
 Mercy,pers_mercy,exact
-Mowser,pers_mowser,exact
 Myconid Colony,org_myconids,exact
-Myconids,org_myconids,exact
 Newberry,pers_newberry,exact
 Piers,pers_piers,exact
 Poppy,pers_poppy,exact
@@ -52,7 +48,6 @@ Rhys,pers_rhys,exact
 Ricardo,pers_ricardo,exact
 Sala,pers_sala,exact
 Saphira,pers_saphira,exact
-Shargaas,pers_shargaas,exact
 Shworn,pers_shworn,exact
 Spike,pers_spike,exact
 Tiber,pers_tiber,exact
@@ -68,11 +63,9 @@ Hand,org_hands,exact
 Ilguz,factn_ilguz,exact
 Jackals,org_jackals,exact
 Krach-ul,factn_krach-ul,exact
-Modrons,factn_modrons,exact
 Remedy,org_remedy,exact
 Sleepsong,org_sleepsong,exact
 Spencer,factn_spencer,exact
-Thieves Guild,org_thieves,exact
 Tolanite,factn_tolanites,exact
 Academy,org_academy_elysia,exact
 IWTC,org_iwtc,casefold

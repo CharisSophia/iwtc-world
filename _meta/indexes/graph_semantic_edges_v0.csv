@@ -8,9 +8,6 @@ org_folly,based_at,loc_crafthold,org,loc,org|loc,False,location
 org_jackals,based_at,loc_monadh_mor,org,loc,org|loc,False,location
 org_ravens,based_at,loc_monadh_mor,org,loc,org|loc,False,location
 pers_bill,based_at,loc_dhassa,pers,loc,pers|loc,False,location
-art_folly,belongs_to,org_folly,art,org,art|org,False,ownership
-creat_little_bear,belongs_to,pers_alivyre,creat,pers,creat|pers,False,ownership
-loc_string,belongs_to,org_sleepsong,loc,org,loc|org,False,ownership
 factn_burzath,current_member_of,org_orcs,factn,org,factn|org,False,membership
 factn_huvorgha,current_member_of,org_orcs,factn,org,factn|org,False,membership
 factn_ilguz,current_member_of,org_orcs,factn,org,factn|org,False,membership
@@ -188,7 +185,6 @@ pers_vyssa,former_member_of,role_adm_academy_student,pers,role,pers|role,False,m
 pers_william,former_member_of,org_sleepsong,pers,org,pers|org,False,membership
 role_adm_academy_professor,former_member_of,org_academy_elysia,role,org,role|org,False,membership
 role_adm_academy_student,former_member_of,org_academy_elysia,role,org,role|org,False,membership
-org_temple_airmid,holds_assets_from,org_academy_elysia,org,org,org|org,False,ownership
 pers_alina,holds_office,off_lead_ch_farm,pers,off,pers|off,False,organizational
 pers_anthony,holds_office,off_lead_elulind,pers,off,pers|off,False,organizational
 pers_aurdac_cefthed,holds_office,off_dpty_cavekeepers,pers,off,pers|off,False,organizational
