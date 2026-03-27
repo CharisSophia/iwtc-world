@@ -1400,44 +1400,6 @@ creat_ash,cooccurs_with,pers_vyssa,1.0
 creat_ash,cooccurs_with,play_bysickle,1.0
 creat_ash,cooccurs_with,play_crowe,2.0
 creat_ash,cooccurs_with,play_kalina,1.0
-creat_bella,cooccurs_with,creat_berry,1.0
-creat_bella,cooccurs_with,creat_mine,1.0
-creat_bella,cooccurs_with,creat_pet,2.0
-creat_bella,cooccurs_with,factn_krach-ul,1.0
-creat_bella,cooccurs_with,loc_abbey,2.0
-creat_bella,cooccurs_with,loc_blackburn,2.0
-creat_bella,cooccurs_with,loc_brightfield,2.0
-creat_bella,cooccurs_with,loc_crafthold,4.0
-creat_bella,cooccurs_with,loc_trollhills,1.0
-creat_bella,cooccurs_with,org_hands,1.0
-creat_bella,cooccurs_with,pers_alivyre,3.0
-creat_bella,cooccurs_with,pers_beni,1.0
-creat_bella,cooccurs_with,pers_bre,3.0
-creat_bella,cooccurs_with,pers_brigitte_ware,1.0
-creat_bella,cooccurs_with,pers_cergad,5.0
-creat_bella,cooccurs_with,pers_chase,1.0
-creat_bella,cooccurs_with,pers_credus,1.0
-creat_bella,cooccurs_with,pers_faeryne,4.0
-creat_bella,cooccurs_with,pers_frita,1.0
-creat_bella,cooccurs_with,pers_george,1.0
-creat_bella,cooccurs_with,pers_goren,1.0
-creat_bella,cooccurs_with,pers_harold,1.0
-creat_bella,cooccurs_with,pers_henry,3.0
-creat_bella,cooccurs_with,pers_jane,5.0
-creat_bella,cooccurs_with,pers_jemmy,1.0
-creat_bella,cooccurs_with,pers_karsen,1.0
-creat_bella,cooccurs_with,pers_liavarah,1.0
-creat_bella,cooccurs_with,pers_light,1.0
-creat_bella,cooccurs_with,pers_luminia,4.0
-creat_bella,cooccurs_with,pers_margot,1.0
-creat_bella,cooccurs_with,pers_mercy,1.0
-creat_bella,cooccurs_with,pers_miran,1.0
-creat_bella,cooccurs_with,pers_norris,1.0
-creat_bella,cooccurs_with,pers_sala,1.0
-creat_bella,cooccurs_with,pers_spike,1.0
-creat_bella,cooccurs_with,pers_tanzo,4.0
-creat_bella,cooccurs_with,pers_unala,2.0
-creat_bella,cooccurs_with,play_crowe,1.0
 creat_berry,cooccurs_with,creat_little_bear,1.0
 creat_berry,cooccurs_with,creat_mine,1.0
 creat_berry,cooccurs_with,creat_pet,2.0
@@ -1454,6 +1416,7 @@ creat_berry,cooccurs_with,pers_alivyre,1.0
 creat_berry,cooccurs_with,pers_aniya,2.0
 creat_berry,cooccurs_with,pers_azaar,1.0
 creat_berry,cooccurs_with,pers_bear,2.0
+creat_berry,cooccurs_with,pers_bella,1.0
 creat_berry,cooccurs_with,pers_bixley,1.0
 creat_berry,cooccurs_with,pers_bre,1.0
 creat_berry,cooccurs_with,pers_cara,1.0
@@ -1757,6 +1720,7 @@ creat_mine,cooccurs_with,pers_aren,5.0
 creat_mine,cooccurs_with,pers_azaar,2.0
 creat_mine,cooccurs_with,pers_baltael,1.0
 creat_mine,cooccurs_with,pers_bear,6.0
+creat_mine,cooccurs_with,pers_bella,1.0
 creat_mine,cooccurs_with,pers_beni,2.0
 creat_mine,cooccurs_with,pers_bixley,1.0
 creat_mine,cooccurs_with,pers_bre,10.0
@@ -1883,6 +1847,7 @@ creat_pet,cooccurs_with,pers_aren,4.0
 creat_pet,cooccurs_with,pers_azaar,1.0
 creat_pet,cooccurs_with,pers_baltael,2.0
 creat_pet,cooccurs_with,pers_bear,7.0
+creat_pet,cooccurs_with,pers_bella,2.0
 creat_pet,cooccurs_with,pers_bixley,2.0
 creat_pet,cooccurs_with,pers_bre,11.0
 creat_pet,cooccurs_with,pers_cara,1.0
@@ -2039,6 +2004,7 @@ factn_krach-ul,cooccurs_with,loc_crafthold,2.0
 factn_krach-ul,cooccurs_with,loc_wolfstream,1.0
 factn_krach-ul,cooccurs_with,org_cavekeepers,1.0
 factn_krach-ul,cooccurs_with,pers_alivyre,1.0
+factn_krach-ul,cooccurs_with,pers_bella,1.0
 factn_krach-ul,cooccurs_with,pers_beni,1.0
 factn_krach-ul,cooccurs_with,pers_bre,2.0
 factn_krach-ul,cooccurs_with,pers_cergad,1.0
@@ -2339,6 +2305,7 @@ loc_abbey,cooccurs_with,pers_aurdac_cefthed,1.0
 loc_abbey,cooccurs_with,pers_azaar,2.0
 loc_abbey,cooccurs_with,pers_baltael,1.0
 loc_abbey,cooccurs_with,pers_bear,9.0
+loc_abbey,cooccurs_with,pers_bella,2.0
 loc_abbey,cooccurs_with,pers_beni,3.0
 loc_abbey,cooccurs_with,pers_bixley,1.0
 loc_abbey,cooccurs_with,pers_braydon,1.0
@@ -2475,6 +2442,7 @@ loc_blackburn,cooccurs_with,pers_aren,4.0
 loc_blackburn,cooccurs_with,pers_azaar,1.0
 loc_blackburn,cooccurs_with,pers_baltael,3.0
 loc_blackburn,cooccurs_with,pers_bear,8.0
+loc_blackburn,cooccurs_with,pers_bella,2.0
 loc_blackburn,cooccurs_with,pers_beni,1.0
 loc_blackburn,cooccurs_with,pers_bixley,1.0
 loc_blackburn,cooccurs_with,pers_bre,12.0
@@ -2641,6 +2609,7 @@ loc_brightfield,cooccurs_with,pers_aren,2.0
 loc_brightfield,cooccurs_with,pers_azaar,1.0
 loc_brightfield,cooccurs_with,pers_baltael,1.0
 loc_brightfield,cooccurs_with,pers_bear,4.0
+loc_brightfield,cooccurs_with,pers_bella,2.0
 loc_brightfield,cooccurs_with,pers_bixley,1.0
 loc_brightfield,cooccurs_with,pers_bre,4.0
 loc_brightfield,cooccurs_with,pers_caldwell,2.0
@@ -2856,6 +2825,7 @@ loc_crafthold,cooccurs_with,pers_avarna,4.0
 loc_crafthold,cooccurs_with,pers_azaar,5.0
 loc_crafthold,cooccurs_with,pers_baltael,8.0
 loc_crafthold,cooccurs_with,pers_bear,22.0
+loc_crafthold,cooccurs_with,pers_bella,4.0
 loc_crafthold,cooccurs_with,pers_beni,6.0
 loc_crafthold,cooccurs_with,pers_bill_harrington,1.0
 loc_crafthold,cooccurs_with,pers_bixley,6.0
@@ -4003,6 +3973,7 @@ loc_trollhills,cooccurs_with,pers_aniya,1.0
 loc_trollhills,cooccurs_with,pers_aren,3.0
 loc_trollhills,cooccurs_with,pers_baltael,2.0
 loc_trollhills,cooccurs_with,pers_bear,8.0
+loc_trollhills,cooccurs_with,pers_bella,1.0
 loc_trollhills,cooccurs_with,pers_bre,9.0
 loc_trollhills,cooccurs_with,pers_cergad,5.0
 loc_trollhills,cooccurs_with,pers_charlie,1.0
@@ -4421,6 +4392,7 @@ org_hands,cooccurs_with,pers_avarna,2.0
 org_hands,cooccurs_with,pers_azaar,2.0
 org_hands,cooccurs_with,pers_baltael,1.0
 org_hands,cooccurs_with,pers_bear,4.0
+org_hands,cooccurs_with,pers_bella,1.0
 org_hands,cooccurs_with,pers_beni,1.0
 org_hands,cooccurs_with,pers_bill_harrington,1.0
 org_hands,cooccurs_with,pers_bixley,2.0
@@ -5101,6 +5073,7 @@ pers_alivyre,cooccurs_with,pers_avarna,13.0
 pers_alivyre,cooccurs_with,pers_azaar,3.0
 pers_alivyre,cooccurs_with,pers_baltael,2.0
 pers_alivyre,cooccurs_with,pers_bear,13.0
+pers_alivyre,cooccurs_with,pers_bella,3.0
 pers_alivyre,cooccurs_with,pers_beni,10.0
 pers_alivyre,cooccurs_with,pers_bill_harrington,2.0
 pers_alivyre,cooccurs_with,pers_bixley,7.0
@@ -5747,6 +5720,33 @@ pers_bear,cooccurs_with,play_crowe,4.0
 pers_bear,cooccurs_with,play_kalina,4.0
 pers_bear,cooccurs_with,play_spartan,2.0
 pers_bear,cooccurs_with,play_venric,3.0
+pers_bella,cooccurs_with,pers_beni,1.0
+pers_bella,cooccurs_with,pers_bre,3.0
+pers_bella,cooccurs_with,pers_brigitte_ware,1.0
+pers_bella,cooccurs_with,pers_cergad,5.0
+pers_bella,cooccurs_with,pers_chase,1.0
+pers_bella,cooccurs_with,pers_credus,1.0
+pers_bella,cooccurs_with,pers_faeryne,4.0
+pers_bella,cooccurs_with,pers_frita,1.0
+pers_bella,cooccurs_with,pers_george,1.0
+pers_bella,cooccurs_with,pers_goren,1.0
+pers_bella,cooccurs_with,pers_harold,1.0
+pers_bella,cooccurs_with,pers_henry,3.0
+pers_bella,cooccurs_with,pers_jane,5.0
+pers_bella,cooccurs_with,pers_jemmy,1.0
+pers_bella,cooccurs_with,pers_karsen,1.0
+pers_bella,cooccurs_with,pers_liavarah,1.0
+pers_bella,cooccurs_with,pers_light,1.0
+pers_bella,cooccurs_with,pers_luminia,4.0
+pers_bella,cooccurs_with,pers_margot,1.0
+pers_bella,cooccurs_with,pers_mercy,1.0
+pers_bella,cooccurs_with,pers_miran,1.0
+pers_bella,cooccurs_with,pers_norris,1.0
+pers_bella,cooccurs_with,pers_sala,1.0
+pers_bella,cooccurs_with,pers_spike,1.0
+pers_bella,cooccurs_with,pers_tanzo,4.0
+pers_bella,cooccurs_with,pers_unala,2.0
+pers_bella,cooccurs_with,play_crowe,1.0
 pers_beni,cooccurs_with,pers_bre,3.0
 pers_beni,cooccurs_with,pers_cara,1.0
 pers_beni,cooccurs_with,pers_cergad,1.0
@@ -14603,7 +14603,6 @@ vocab:avarna,refers_to,pers_avarna,
 vocab:azaar,refers_to,pers_azaar,
 vocab:baltael,refers_to,pers_baltael,
 vocab:bear,refers_to,pers_bear,
-vocab:bella,refers_to,creat_bella,
 vocab:bella,refers_to,pers_bella,
 vocab:beni,refers_to,pers_beni,
 vocab:beni tinkerlaugh,refers_to,pers_beni,
@@ -14652,7 +14651,7 @@ vocab:clara,refers_to,pers_clara,
 vocab:claw,refers_to,pers_claw,
 vocab:claw of ironfang,refers_to,pers_claw,
 vocab:cliffborough,refers_to,loc_cliffborough,
-vocab:cliffborough,refers_to,org_cliffborough,
+vocab:cliffborough governance,refers_to,org_cliffborough,
 vocab:connor,refers_to,pers_connor,
 vocab:court of elulind,refers_to,org_elulind,
 vocab:crafthold,refers_to,loc_crafthold,
@@ -14706,7 +14705,7 @@ vocab:drib gnoss,refers_to,pers_drib,
 vocab:druven,refers_to,pers_druven,
 vocab:druwen,refers_to,loc_druwen,
 vocab:duchy of druwen,refers_to,loc_druwen,
-vocab:duchy of druwen,refers_to,org_druwen,
+vocab:duchy of druwen governance,refers_to,org_druwen,
 vocab:duke of druwen,refers_to,off_lead_druwen,
 vocab:eardwulf,refers_to,pers_eardwulf,
 vocab:eardwulf harland,refers_to,pers_eardwulf,
@@ -14983,7 +14982,7 @@ vocab:spymaster of elulind,refers_to,off_lead_diamond,
 vocab:spymaster of the death ravens,refers_to,off_ops_ravens_spymaster,
 vocab:stablemaster of wolfstream abbey,refers_to,off_lead_wolfstream_stables,
 vocab:stonehome,refers_to,loc_stonehome,
-vocab:stonehome,refers_to,org_stonehome,
+vocab:stonehome governance,refers_to,org_stonehome,
 vocab:striker of the folly,refers_to,role_cmb_folly_striker,
 vocab:student of the elysian academy,refers_to,role_adm_academy_student,
 vocab:tandagh,refers_to,pers_tandagh,

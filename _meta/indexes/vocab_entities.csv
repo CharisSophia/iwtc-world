@@ -3,7 +3,6 @@ art_folly,The Folly,artifact,world
 art_glory,Unala's Glory,artifact,world
 art_iris,IRIS,artifact,world
 creat_ash,Ash,creature,world
-creat_bella,Bella,creature,world
 creat_berry,Berry,creature,world
 creat_huana,Huana,creature,world
 creat_little_bear,Little Bear,creature,world
@@ -27,6 +26,7 @@ loc_brightfield,Brightfields Village,place,world
 loc_cameth,Cameth Brin,place,world
 loc_chandler_thurway,Thurway Candlemaker,place,world
 loc_cliffborough,Cliffborough,place,world
+loc_crafthold,Crafthold,place,world
 loc_dereham,Dereham,place,world
 loc_dhassa_castle,Dhassa Castle,place,world
 loc_dhassa,Dhassa,place,world
@@ -37,13 +37,16 @@ loc_elysia,Elysia,place,world
 loc_eth_aldur,Eth Aldur,place,world
 loc_guldrur,Guldrur,place,world
 loc_jotunheim,Jotunheim Peaks,place,world
+loc_killeth,Killeth,place,world
 loc_monadh_mor,Monadh Mor,place,world
 loc_northbend,North Bend FOB,place,world
 loc_rarmal,Rarmal,place,world
+loc_sadies_leatherworking,Sadie's Leatherworking,place,world
 loc_silversmith_killeth,Killeth Silversmith,place,world
 loc_stonehome,Stonehome,place,world
 loc_string,The Silver String,place,world
 loc_tannery_killeth,Killeth Tannery,place,world
+loc_thurway,Thurway,place,world
 loc_tolan,Kingdom of Tolàn,place,world
 loc_torenth,Torenth,place,world
 loc_trollhills,Trollhills,place,world
@@ -54,6 +57,7 @@ off_dpty_folly,Deputy of the Folly,office,world
 off_dpty_jackals,Lieutenant of the Silver Jackals,office,world
 off_dpty_krach-ul,Krach-ul Captain at Crafthold,office,world
 off_dpty_ravens,Lieutenant of the Death Ravens,office,world
+off_dpty_river_valley_farms,River Valley Farm Deputy,office,world
 off_lead_cavekeepers,Chief Cave Keeper,office,world
 off_lead_ch_farm,Crafthold Reeve,office,world
 off_lead_ch_forge,Crafthold Forgemaster,office,world
@@ -73,6 +77,7 @@ off_lead_glimmerwell,Leader of Glimmerwell Shrine,office,world
 off_lead_hands_squad_ronric,Leader of Ronric's Squad,office,world
 off_lead_hands_squad_todd,Leader of Todd's Squad,office,world
 off_lead_hands_squad_vyssa,Leader of Vyssa's Squad,office,world
+off_lead_hands,Hands Captain,office,world
 off_lead_ironfang,Ironfang Commander,office,world
 off_lead_jackals,Captain of the Silver Jackals,office,world
 off_lead_krach-ul_cavekeepers,Keeper of the Krach-ul Caves at Crafthold,office,world
@@ -82,11 +87,14 @@ off_lead_michaeline_joram,Michaeline Company Commander,office,world
 off_lead_military,Marshal of Elulind,office,world
 off_lead_orc_religion,High Priest of the Orc Nation,office,world
 off_lead_orcs,Warlord of the Orc Nation,office,world
+off_lead_palace_guard,Captain of the Palace Guard,office,world
+off_lead_rangers,Ranger Commander,office,world
 off_lead_rarmal,Warlord of Rarmal,office,world
 off_lead_ravens,Captain of the Death Ravens,office,world
 off_lead_red_fang_squad_gremze,Leader of Gremze's Squad,office,world
 off_lead_red_fang,Red Fang Master,office,world
 off_lead_remedy,Leader of Airmid's Remedy,office,world
+off_lead_river_valley_farms,River Valley Farm Warden,office,world
 off_lead_royal_house,Seneschal of Dhassa Castle,office,world
 off_lead_sleepsong,Clan Matriarch,office,world
 off_lead_stonehome_squad_ylola,Leader of Ylola's Scout Squad,office,world
@@ -98,14 +106,16 @@ off_lead_wolf,Wolf Clan Alpha,office,world
 off_lead_wolfstream_hospitaller,Hospitaller of Wolfstream Abbey,office,world
 off_lead_wolfstream_stables,Stablemaster of Wolfstream Abbey,office,world
 off_lead_wolfstream,Abbess of Wolfstream Abbey,office,world
-off_ops_folly,Operations Lead of the Folly,office,world
 off_ops_druwen_field_marshal,Field Marshal of Druwen,office,world
+off_ops_folly,Operations Lead of the Folly,office,world
 off_ops_ravens_spymaster,Spymaster of the Death Ravens,office,world
+off_ops_sleepsong_enforcer,Sleepsong Enforcer,office,world
 off_ops_wolfstream_blacksmith,Blacksmith of Wolfstream Abbey,office,world
 off_ops_wolfstream_cellarer,Cellarer of Wolfstream Abbey,office,world
 off_ops_wolfstream_herbalist,Herbalist of Wolfstream Abbey,office,world
 off_ops_wolfstream_hunters,Huntsman of Wolfstream Abbey,office,world
 off_ops_wolfstream_weaver,Weaver of Wolfstream Abbey,office,world
+off_weapons_master,Weapons Master of Elulind,office,world
 org_academy_elysia,Elysian Academy,organization,world
 org_cavekeepers,Cave Keepers,organization,world
 org_ch_farm,Crafthold Home Farm,organization,world
@@ -118,11 +128,11 @@ org_ch_square,Crafthold Town Square,organization,world
 org_ch_stables,Crafthold Stables,organization,world
 org_ch_warehouse,Crafthold Warehouse and Supply,organization,world
 org_chancery,Chancery of Elulind,organization,world
-org_cliffborough,Cliffborough,organization,world
+org_cliffborough,Cliffborough governance,organization,world
 org_crafthold,Crafthold Community,organization,world
 org_dhassa_house,Household of Dhassa Castle,organization,world
 org_diamond,Black Diamond,organization,world
-org_druwen,Duchy of Druwen,organization,world
+org_druwen,Duchy of Druwen governance,organization,world
 org_elulind_army,Elulind Army,organization,world
 org_elulind,Court of Elulind,organization,world
 org_folly,Albrun's Folly,organization,world
@@ -138,10 +148,14 @@ org_jackals,Silver Jackals,organization,world
 org_krach-ul_cavekeepers,Krach-ul Cavekeepers at Crafthold,organization,world
 org_krach-ul_handlers,Krach-ul Animal Handlers at Crafthold,organization,world
 org_krach-ul,Krach-ul at Crafthold,organization,world
+org_michaeline,Order of St Michael,organization,world
 org_military,Military of Elulind,organization,world
+org_myconids,Myconids,organization,world
 org_orc_religion,Orc Religion,organization,world
 org_orcs,Orc Nation,organization,world
+org_rangers,Elulind Ranger Corp,organization,world
 org_rarmal,Rarmal Garrison,organization,world
+org_ravencrest,Ravencrest Merchant Family,organization,world
 org_ravens,Death Ravens,organization,world
 org_red_fang_squad_gremze,Gremze's Squad,organization,world
 org_red_fang,Red Fang,organization,world
@@ -150,12 +164,14 @@ org_river_valley_farms,River Valley Farm Settlements,organization,world
 org_sleepsong,Sleepsong Clan,organization,world
 org_stonehome_squad_ylola,Ylola's Scout Squad,organization,world
 org_stonehome_squad_zanlen,Zanlen's Scout Squad,organization,world
-org_stonehome,Stonehome,organization,world
+org_stonehome,Stonehome governance,organization,world
 org_temple_airmid,Temple of Airmid,organization,world
 org_thieves,Thieves Guild,organization,world
 org_tolan_healers,Tolàn Healers' Guild,organization,world
 org_tolan,Tolàn Court,organization,world
 pers_abram,Abram,NPC,world
+pers_addy,Addy,NPC,world
+pers_alina,Alina,NPC,world
 pers_alivyre,Alivyre Dawntracker,character,world
 pers_andrei,Andrei,person,world
 pers_aniya,Aniya Laccion,character,world
@@ -163,6 +179,7 @@ pers_anthony,Anthony Haldane,NPC,world
 pers_aren,Aren,person,world
 pers_arthur,Arthur Coldstone,character,world
 pers_aurdac_cefthed,Aurdac Cefthed,person,world
+pers_avarna,Avarna,NPC,world
 pers_azaar,Azaar,character,world
 pers_baltael,Baltael,NPC,world
 pers_bear,Bear,character,world
@@ -171,15 +188,18 @@ pers_beni,Beni Tinkerlaugh,person,world
 pers_bill_harrington,Bill Harrington,NPC,world
 pers_bill,Bill not-Sleepsong,NPC,world
 pers_bixley,Bixley,NPC,world
+pers_braydon,Braydon,NPC,world
 pers_bre,Breanna Arch,character,world
 pers_brigitte_ware,Mother Brigitte Ware,NPC,world
 pers_caldwell,Selis Caldwell,person,world
 pers_cara,Cara Windsoul,character,world
+pers_catrin_woodwell,Catrin Woodwell,NPC,world
 pers_cergad,Cergad,NPC,world
 pers_charlie,Charlie,person,world
 pers_chase,Chase,NPC,world
 pers_chuck,Chuck,NPC,world
 pers_clara,Clara,character,world
+pers_claw,Claw of Ironfang,NPC,world
 pers_connor,Connor,NPC,world
 pers_credus,Credus,character,world
 pers_cullen,Alister Cullen,NPC,world
@@ -189,17 +209,21 @@ pers_dakgorim,Dakgorim,person,world
 pers_darren,Darren Moore,character,world
 pers_david_bowie,David Bowie,NPC,world
 pers_david_herder,David Herder,NPC,world
+pers_dorgath_stoneeye,Dorgath Stone-Eye,NPC,world
 pers_draug,Draug,person,world
 pers_drib,Drib Gnoss,character,world
+pers_druven,Druven,NPC,world
 pers_eardwulf,Eardwulf Harland,NPC,world
 pers_ebele,Ebele,person,world
 pers_edda,Edda MacInnis,person,world
+pers_edric_tanner,Edric Tanner,NPC,world
 pers_eghad,Eghad,NPC,world
 pers_eira,Eira Sleepsong,NPC,world
 pers_elaris,Elaris Thorne,character,world
 pers_elias,Elias Stormriver,character,world
 pers_emily,Emily Ashton,NPC,world
 pers_emlin,Emlin Fuzzyneedle,person,world
+pers_evaine,Evaine MacRorie Thuryn,NPC,world
 pers_faeryne,Faeryne,character,world
 pers_fenrir,Fenrir,NPC,world
 pers_frita,Sister Frita,NPC,world
@@ -211,20 +235,27 @@ pers_gerard,Gerard,NPC,world
 pers_getkleblish,Getkleblish Shorttwist,person,world
 pers_gina,Gina,NPC,world
 pers_goren,Goren,NPC,world
+pers_gorvak_krachul,Gorvak of Krach-ul,NPC,world
 pers_grace,Grace Kinneon,person,world
 pers_gremze,Gremze,person,world
+pers_grummol_hearthhand,Grummol Hearthhand,NPC,world
 pers_hadar,Hadar,NPC,world
+pers_hammer,Hammer of Ironfang,NPC,world
 pers_harold,Brother Harold,NPC,world
 pers_henry,Henry Sleepsong,character,world
 pers_holly,Holly,character,world
 pers_horrom,Horrom,person,world
 pers_hrafn,Hrafn,person,world
+pers_hugh_calder,Hugh Calder,NPC,world
 pers_idolus,Idolus,character,world
 pers_jamfyr,Jamfyr,person,world
 pers_jane,Jane,character,world
 pers_jareth_heartarm,Jareth Heartarm,person,world
 pers_javan,Javan MacInnis,person,world
+pers_jemmy,Jemmy,NPC,world
 pers_jessie_hobbs,Jessie Hobbs,person,world
+pers_jonas_fenwick,Jonas Fenwick,NPC,world
+pers_joram,Joram MacRorie,NPC,world
 pers_josiah,Josiah,person,world
 pers_kaedra,Kaedra,NPC,world
 pers_kaitlyn,Kaitlyn,NPC,world
@@ -233,6 +264,7 @@ pers_kate,Kate,person,world
 pers_katia,Katia,person,world
 pers_katy,Katy,character,world
 pers_kavar,Kavar Protis,character,world
+pers_kelrag,Kelrag,NPC,world
 pers_kendel,Kendel Shamaris,person,world
 pers_khagra_warhammer,Khagra Warhammer,person,world
 pers_kierton,Kierton,person,world
@@ -242,6 +274,7 @@ pers_lannji,Lannji Wildstone,person,world
 pers_lia,Lia Fabriana,character,world
 pers_liacyne,Liacyne Heseth,character,world
 pers_liavarah,Liavarah,character,world
+pers_light,Light of Ironfang,NPC,world
 pers_loris,Edmund Loris,NPC,world
 pers_lou,Lou,NPC,world
 pers_luminia,Luminia,character,world
@@ -249,14 +282,18 @@ pers_macfeegle,MacFeegle,character,world
 pers_makhala,Makhala,NPC,world
 pers_malou,Malou,person,world
 pers_margot,Margot,NPC,world
+pers_maribel_holt,Maribel Holt,NPC,world
 pers_mazorn_blindscar,Mazorn Blindscar,person,world
 pers_melba,Melba Harland,NPC,world
 pers_mercy,Mercy Windriver,character,world
 pers_miran,Miran,NPC,world
 pers_moon,Moon,NPC,world
+pers_mornak,Mornak,NPC,world
 pers_mowser,Mowser,character,world
 pers_nala,Nala,person,world
+pers_nella_dyer,Nella Dyer,NPC,world
 pers_newberry,Evan Newberry,person,world
+pers_nolan,Nolan,NPC,world
 pers_norris,Brother Norris,NPC,world
 pers_obby,Obby,person,world
 pers_olivia_rios,Olivia Rios,person,world
@@ -267,24 +304,32 @@ pers_quave,Quave,person,world
 pers_quinn,Quinn,person,world
 pers_rami,Rami,person,world
 pers_rhona,Rhona,person,world
+pers_rhys,Rhys Thuryn,NPC,world
 pers_ricardo,Ricardo Alcocer,NPC,world
+pers_robart_thayne,Robart "Rob" Thayne,NPC,world
 pers_robbie,Robbie,person,world
 pers_roland,Roland,NPC,world
 pers_ronric,Ronric,NPC,world
 pers_sala,Salaisha,character,world
 pers_saphira,Saphira Celestia,character,world
+pers_sarai,Sarai,NPC,world
+pers_sarga_bonebraid,Sarga Bonebraid,NPC,world
 pers_sekani,Sekani,person,world
 pers_sens,Sens,person,world
+pers_shadow,Shadow of Ironfang,NPC,world
 pers_shargaas,Shargaas,NPC,world
 pers_shulhug,Shulhug,person,world
 pers_shworn,Shworn Sleepsong,character,world
 pers_soren,Soren,NPC,world
+pers_spike,Spike of Ironfang,NPC,world
 pers_tandagh,Tandagh,person,world
+pers_tanzo,Tanzo,character,world
 pers_tawyn,Tawyn,person,world
 pers_taylor_ochoa,Taylor Ochoa,person,world
 pers_taylor,Taylor,person,world
 pers_terry,Terry,character,world
 pers_thalia,Thalia Ravencrest,NPC,world
+pers_thraga,Thraga,NPC,world
 pers_tiber,Tiber Nox,character,world
 pers_todd,Todd,character,world
 pers_torchholder,Kama Torchholder,NPC,world
@@ -294,7 +339,10 @@ pers_tozhug,Tozhug,person,world
 pers_unala,Unala Vortoise,character,world
 pers_ungagh_bloodaxe,Ungagh Bloodaxe,person,world
 pers_urgulk,Urgulk,character,world
+pers_urla,Urla,NPC,world
 pers_urmrig,Urmrig,person,world
+pers_varkha_redtusks,Varkha Red-Tusks,NPC,world
+pers_velka_ironstitch,Velka Ironstitch,NPC,world
 pers_venfi,Venfi,person,world
 pers_victor,Victor D Evernight,character,world
 pers_vyssa,Vyssa,NPC,world
@@ -304,6 +352,7 @@ pers_wogharod,Wogharod,person,world
 pers_ylola,Ylola Toggleblock,person,world
 pers_zanlen,Zanlen Broadstitch,person,world
 pers_zedna,Zedna Hresvelg,character,world
+pers_zohra,Master Zohra,NPC,world
 play_amy,Amy,player,meta
 play_ana,Ana,player,meta
 play_bysickle,Bysickle,player,meta
@@ -352,53 +401,3 @@ role_ops_orcs_labor_master,Orc Labor Master,role,world
 role_recon_ch_stables_hunter,Crafthold Hunter,role,world
 role_recon_folly_scout,Scout of the Folly,role,world
 role_rng_folly_sniper,Sniper of the Folly,role,world
-pers_braydon,Braydon,NPC,world
-pers_claw,Claw of Ironfang,NPC,world
-pers_evaine,Evaine MacRorie Thuryn,NPC,world
-pers_hammer,Hammer of Ironfang,NPC,world
-pers_joram,Joram MacRorie,NPC,world
-pers_light,Light of Ironfang,NPC,world
-pers_rhys,Rhys Thuryn,NPC,world
-pers_spike,Spike of Ironfang,NPC,world
-org_myconids,Myconids,organization,world
-off_lead_river_valley_farms,River Valley Farm Warden,office,world
-off_dpty_river_valley_farms,River Valley Farm Deputy,office,world
-org_ravencrest,Ravencrest Merchant Family,organization,world
-loc_crafthold,Crafthold,place,world
-loc_killeth,Killeth,place,world
-loc_thurway,Thurway,place,world
-org_michaeline,Order of St Michael,organization,world
-pers_avarna,Avarna,NPC,world
-pers_edric_tanner,Edric Tanner,NPC,world
-pers_maribel_holt,Maribel Holt,NPC,world
-pers_shadow,Shadow of Ironfang,NPC,world
-pers_tanzo,Tanzo,character,world
-loc_sadies_leatherworking,Sadie's Leatherworking,place,world
-off_lead_hands,Hands Captain,office,world
-off_lead_rangers,Ranger Commander,office,world
-off_lead_palace_guard,Captain of the Palace Guard,office,world
-off_weapons_master,Weapons Master of Elulind,office,world
-pers_addy,Addy,NPC,world
-pers_alina,Alina,NPC,world
-pers_catrin_woodwell,Catrin Woodwell,NPC,world
-pers_dorgath_stoneeye,Dorgath Stone-Eye,NPC,world
-pers_druven,Druven,NPC,world
-pers_gorvak_krachul,Gorvak of Krach-ul,NPC,world
-pers_grummol_hearthhand,Grummol Hearthhand,NPC,world
-pers_hugh_calder,Hugh Calder,NPC,world
-pers_jonas_fenwick,Jonas Fenwick,NPC,world
-pers_mornak,Mornak,NPC,world
-pers_nella_dyer,Nella Dyer,NPC,world
-pers_nolan,Nolan,NPC,world
-pers_robart_thayne,Robart "Rob" Thayne,NPC,world
-pers_sarga_bonebraid,Sarga Bonebraid,NPC,world
-pers_thraga,Thraga,NPC,world
-pers_urla,Urla,NPC,world
-pers_velka_ironstitch,Velka Ironstitch,NPC,world
-pers_varkha_redtusks,Varkha Red-Tusks,NPC,world
-pers_jemmy,Jemmy,NPC,world
-pers_kelrag,Kelrag,NPC,world
-pers_sarai,Sarai,NPC,world
-pers_zohra,Master Zohra,NPC,world
-org_rangers,Elulind Ranger Corp,organization,world
-off_ops_sleepsong_enforcer,Sleepsong Enforcer,office,world

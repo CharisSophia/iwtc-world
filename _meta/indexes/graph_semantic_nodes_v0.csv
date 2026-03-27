@@ -90,11 +90,11 @@ org_ch_square,org,Crafthold Town Square
 org_ch_stables,org,Crafthold Stables
 org_ch_warehouse,org,Crafthold Warehouse and Supply
 org_chancery,org,Chancery of Elulind
-org_cliffborough,org,Cliffborough
+org_cliffborough,org,Cliffborough governance
 org_crafthold,org,Crafthold Community
 org_dhassa_house,org,Household of Dhassa Castle
 org_diamond,org,Black Diamond
-org_druwen,org,Duchy of Druwen
+org_druwen,org,Duchy of Druwen governance
 org_elulind,org,Court of Elulind
 org_folly,org,Albrun's Folly
 org_glimmerwell,org,Glimmerwell Shrine
@@ -121,7 +121,7 @@ org_red_fang_squad_gremze,org,Gremze's Squad
 org_remedy,org,Airmid's Remedy
 org_river_valley_farms,org,River Valley Farm Settlements
 org_sleepsong,org,Sleepsong Clan
-org_stonehome,org,Stonehome
+org_stonehome,org,Stonehome governance
 org_stonehome_squad_ylola,org,Ylola's Scout Squad
 org_stonehome_squad_zanlen,org,Zanlen's Scout Squad
 org_temple_airmid,org,Temple of Airmid
